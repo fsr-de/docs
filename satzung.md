@@ -1,6 +1,6 @@
 # Satzung Fachschaft IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Satzung wurde am 26.04.2007 von der Vollversammlung der Fachschaft beschlossen.
+Diese Satzung wurde am 24.04.2008 von der Vollversammlung der Fachschaft beschlossen.
 
 
 
@@ -33,7 +33,7 @@ Die Organe der Fachschaft sind:
 
 (1) Die Fachschaftsvollversammlung ist das oberste beschlußfassende Organ der Fachschaft. In der Fachschaftsvollversammlung haben alle Fachschaftsmitglieder Sitz und Stimme.
 
-(2) In jedem Semester soll eine ordentliche Fachschaftsvollversammlung stattfinden. Sie wird aus aktuellem Anlaß vom Fachschaftsrat oder auf Antrag von mindestens 15 Fachschaftsmitgliedern einberufen.
+(2) In jedem Studienjahr soll eine ordentliche Fachschaftsvollversammlung stattfinden. Sie wird aus aktuellem Anlaß vom Fachschaftsrat oder auf Antrag von mindestens 15 Fachschaftsmitgliedern einberufen.
 
 (3) Vollversammlungen müssen mindestens 14 Tage vorher durch Aushang angekündigt werden. Eine ordnungsgemäß angekündigte Vollversammlung ist voll beschlußfähig.
 
@@ -46,7 +46,7 @@ Die Organe der Fachschaft sind:
 
 (2) Er wird in der Regel einmal im Jahr am Anfang des Sommersemesters entsprechend der Wahlordnung der Fachschaft gewählt.
 
-(3) Dem Fachschaftsrat gehören sechs Mitglieder an. Die Mitglieder des Fachschaftsrates sollten möglichst aus unterschiedlichen Semestern stammen und sowohl den Bachelor- als auch den Master-Studiengang abdecken. Damit soll gewährleistet werden, dass alle Jahrgänge die Möglichkeit zur Mitwirkung haben.
+(3) Dem Fachschaftsrat gehören acht Mitglieder an. Die Mitglieder des Fachschaftsrates sollten möglichst aus unterschiedlichen Semestern stammen und sowohl den Bachelor- als auch den Master-Studiengang abdecken. Damit soll gewährleistet werden, dass alle Jahrgänge die Möglichkeit zur Mitwirkung haben.
 
 (4) Der Fachschaftsrat oder einzelne Mitglieder können jederzeit durch Beschluß der Vollversammlung abgewählt werden.
 
@@ -71,7 +71,7 @@ Alle anderen Kompetenzbereiche werden intern verteilt.
 
 ## §5b. Sitzungen
 
-(1) Der Fachschaftsrat soll während der Vorlesungszeit alle zwei Wochen zusammentreten. Zu einer turnusmäßigen Sitzung muß keine Einladung erfolgen. Der Termin der turnusmäßigen Sitzung ist bekanntzugeben.
+(1) Der Fachschaftsrat soll während der Vorlesungszeit jede Woche zusammentreten. Zu einer turnusmäßigen Sitzung muß keine Einladung erfolgen. Der Termin der turnusmäßigen Sitzung ist bekanntzugeben.
 
 (2) Als erster Tagesordnungspunkt einer jeden Sitzung ist die Protokollführung sicherzustellen.
 
