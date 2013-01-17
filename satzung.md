@@ -1,14 +1,14 @@
-# Satzung Fachschaft Softwaresystemtechnik am Hasso-Plattner-Institut an der Universität Potsdam
+# Satzung Fachschaft IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Satzung wurde am 09.12.2004 von der Vollversammlung der Fachschaft beschlossen.
+Diese Satzung wurde am 26.04.2007 von der Vollversammlung der Fachschaft beschlossen.
 
 
 
 ## §1. Geltungsbereich
 
-(1) Alle Studenten und Studentinnen der Universität Potsdam, die Softwaresystemtechnik oder IT Systems Engineering studieren, sind Mitglieder der Fachschaft Softwaresystemtechnik, sofern dieses Fach im Studentenausweis eingetragen ist.
+(1) Alle Studenten und Studentinnen der Universität Potsdam, die Softwaresystemtechnik oder IT Systems Engineering studieren, sind Mitglieder der Fachschaft IT-Systems Engineering.
 
-(2) Ist das Fach Softwaresystemtechnik oder IT Systems Engineering nicht im Studentenausweis eingetragen, so wird der Student auf Antrag in die Fachschaft aufgenommen, wenn er nachweist, einen Studienschwerpunkt in diesem Fach zu haben.
+(2) Jeder Student kann auf Antrag in die Fachschaft aufgenommen werden, wenn er nachweist, einen Studienschwerpunkt in diesem Fach zu haben.
 
 
 ## §2. Aufgaben
