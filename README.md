@@ -12,6 +12,6 @@ Dieses Git Repository enthält die Satzung der Fachschaft IT-Systems Engineering
 
 Damit die Änderungen an den Dateien minimiert werden und Änderungen leicht verfolgbar sind, haben wir folgende Vorgaben gemacht:
 
-* Änderungen die nicht den Inhalt der Satzung betreffen, sind in der Commit message mit `[nicht inhaltlich]` zu kennzeichnen
+* Änderungen die nicht die Zustimmung der Vollversammlung erfordern, sind in der Commit message mit `[nicht inhaltlich]` zu kennzeichnen
 * Als Line endings ist der Unix style zu nutzen
 * Alle Dateien sind UTF-8 encoded
