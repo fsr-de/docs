@@ -144,6 +144,6 @@ Findet sich für keine der Alternativen eine Zwei-Drittel-Mehrheit, so tritt Alt
 (2) Über die Verwendung der Mittel ist Nachweis zu führen.
 
 
-## §7. Satzungsänderungen.
+## §7. Satzungsänderungen
 
 Die Änderung der Satzung kann nur erfolgen, wenn zwei Drittel der bei einer Vollversammlung stimmberechtigten Anwesenden dem Antrag zustimmen.
