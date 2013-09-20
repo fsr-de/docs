@@ -94,6 +94,7 @@ Die Organe der Fachschaft sind:
 ## §5e. Sitzungen
 
 (1) Der Fachschaftsrat soll während der Vorlesungszeit jede Woche zusammentreten. Der Termin der turnusmäßigen Sitzungen ist durch eine E-Mail an die Fachschaft bekanntzugeben.
+
 (2) Zu außerordentlichen Sitzungen muss eine Einladung per E-Mail an die Fachschaft erfolgen.
 
 (3) Zu Beginn jeder Sitzung ist vom Vorsitzenden ein Protokollführer festzulegen, der alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Der Protokollführer muss persönlich anwesend sein. Weiteres regelt §5f.
