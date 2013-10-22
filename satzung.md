@@ -79,7 +79,7 @@ Die Organe der Fachschaft sind:
 1. persönliche Anwesenheit: Alle Mitglieder des Fachschaftsrates, die sich während der Sitzung am Ort der Sitzung befinden, gelten als persönlich anwesend.
 2. Anwesenheit: Alle Mitglieder des Fachschaftsrates, die während der Sitzung persönlich anwesend sind oder per Telefon oder anderweitiger Einrichtung zur Kommunikation, insbesondere Internet- oder Videotelefonie, teilnehmen, gelten als anwesend.
 
-(2) Während jeder Sitzung muss ein persönlich anwesendes Mitglied den Vorsitz haben. Sind weder der gewählte Vorsitzende noch der Stellvertretende persönlich anwesend, können diese einstimmig den Vorsitz für die betreffende Sitzung auf ein anderes Mitglied übertragen. Die-se Entscheidung erhält per E-Mail an den gesamten Fachschaftsrat Gültigkeit.
+(2) Während jeder Sitzung muss ein persönlich anwesendes Mitglied den Vorsitz haben. Sind weder der gewählte Vorsitzende noch der Stellvertretende persönlich anwesend, können diese einstimmig den Vorsitz für die betreffende Sitzung auf ein anderes Mitglied übertragen. Diese Entscheidung erhält per E-Mail an den gesamten Fachschaftsrat Gültigkeit.
 
  
 ## §5d. Beschlüsse
