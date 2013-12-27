@@ -1,97 +1,118 @@
-# Wahlordnung zum Fachschaftsrat des IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
+# Wahlordnung der Fachschaft IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Wahlordnung ist am 26.04.2012 durch Beschluss des Fachschaftsrates vom 27.03.2012 in Kraft getreten.
+Diese Wahlordnung ist am 21.02.2013 durch Beschluss des Fachschaftsrates in Kraft getreten.
 
 
 
 ## §1 Geltungsbereich
 
-(1) Diese Wahlordnung gilt für die Wahlen zum Fachschaftsrat des IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam.
+Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineering sowie für die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss am Hasso-Plattner-Institut an der Universität Potsdam.
 
 
-## §2 Amtszeit, Wahltermin
+## §2 Gremien
 
-(1) Der Fachschaftsrat wird für ein Jahr gewählt und bleibt kommissarisch über den Wahlzeitraum hinaus im Amt, bis ein neuer Fachschaftsrat gewählt wurde. Ausnahmen hiervon bilden Rücktritte und Nachrücker gemäß Satzung.
+(1)	In den Fachschaftsrat werden gemäß Satzung der Fachschaft IT-Systems Engineering acht Mitglieder gewählt.
 
-(2) Die Wahlen finden gewöhnlich zum Beginn der Vorlesungszeit eines jeden Sommersemesters statt, spätestens aber einen Monat nach Vorlesungsbeginn. Die Amtszeit der gewählten Mitglieder beginnt unmittelbar nach Feststellung des Wahlergebnisses (siehe § 9). Gleichzeitig endet die Amtszeit der bisherigen Mitglieder des Fachschaftsrats.
+(2)	Gemäß Artikel 23 (4) der Grundordnung der Universität Potsdam vom 17. Dezember 2009 werden zwei studentische Mitglieder in die Studienkommission gewählt.
 
-
-## §3 Wahlgrundsatz
-
-(1) Die Wahlen zum Fachschaftsrat erfolgen in freier, gleicher, unmittelbarer und geheimer Wahl. Es findet eine Mehrheitswahl statt.
+(3)	Es wird ein studentisches Mitglied in den Prüfungsausschuss gewählt.
 
 
-## §4 Wahlrecht
+## §3 Amtszeit und Wahltermin
 
-(1) Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
+(1)	Der Fachschaftsrat sowie die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss werden für ein Jahr gewählt und bleiben kommissarisch über den Wahlzeitraum hinaus im Amt, bis die Gremien neu gewählt wurden. Ausnahmen hiervon bilden Rücktritte und Nachrücker im Fachschaftsrat gemäß Satzung.
 
+(2)	Die Amtszeit der gewählten Mitglieder beginnt unmittelbar nach Feststellung des Wahlergebnisses. Gleichzeitig endet die Amtszeit der bisherigen Mitglieder.
 
-## §5 Wahlausschuss
-
-(1) Vor den Wahlen ist durch den Fachschaftsrat aus der Mitte der Fachschaft ein Wahlausschuss zu bilden, dem die ordnungsgemäße Vorbereitung und Durchführung der Wahl zum Fachschaftsrat obliegt. Mitglieder des Wahlausschusses dürfen nicht zugleich Wahlkandidaten sein.
-
-(2) Der Wahlausschuss kann Wahlhelfer bestimmen, die nicht der Fachschaft des IT-Systems Engineering angehören.
+(3)	Die Wahlen finden gewöhnlich zu Beginn der Vorlesungszeit jedes Sommersemesters statt, spätestens aber einen Monat nach Vorlesungsbeginn. Im Falle einer Neuwahl vor Ablauf einer vollständigen Legislaturperiode ist dieser Zeitpunkt entsprechend anzupassen.
 
 
-## §6 Wahlausschreibung
+## §4 Wahlgrundsatz
 
-(1) Der Wahlausschuss schreibt die Wahlen zum Fachschaftsrat rechtzeitig aus; die Wahlbekanntmachung ist zu veröffentlichen.
+(1)	Die Wahlen erfolgen in freier, gleicher, unmittelbarer und geheimer Wahl.
 
-(2) Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und sonstige Modalitäten der Wahl. Sie sollte die in § 11 der Wahlordnung der Studentenschaft der Universität Potsdam aufgeführten Hinweise enthalten.
-
-(3) Die Wahlbekanntmachung hat mindestens zwei Wochen vor der Wahl zu erfolgen.
+(2)	Es findet eine Mehrheitswahl statt.
 
 
-## §7 Wahlvorschläge
+## §5 Wahlrecht
 
-(1) Die Kandidatur zum Fachschaftsrat erfolgt schriftlich. Die Mitteilung über die Kandidatur ist spätestens zwei Wochen vor der Wahl dem Wahlausschuss zuzuleiten; sie sollte Namen und Vornamen, Anschrift, Semesterzahl und die Unterschrift des Kandidaten enthalten.
-
-(2) Der Wahlausschuss kann eine Verlängerung der Zuleitungsfrist der Wahlvorschläge beschließen, spätestens endet diese eine Woche vor der Wahl.
-
-(3) Die Wahlvorschläge sollten eine Woche vor der Wahl öffentlich bekanntgemacht werden.
+Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 
-## §8 Wahldurchführung
+## §6 Wahlausschuss
 
-(1) Jedes Mitglied der Fachschaft hat ebenso viele Stimmen wie Mitglieder des Fachschaftsrats zu wählen sind.
+(1)	Dem Wahlausschuss obliegt die ordnungsgemäße Vorbereitung und Durchführung der Wahlen.
 
-(2) Dem Wähler steht es offen, seine Stimmen auf die Kandidaten zu verteilen. Stimmenhäufung ist nicht zulässig.
+(2)	Der Wahlausschuss wird spätestens sechs Wochen vor dem geplanten Wahltermin durch den Fachschaftsrat aus der Mitte der Fachschaft gebildet.
 
-(3) Der Wähler ist nicht an die Kandidaten gebunden.
+(3)	Der Wahlausschuss umfasst mindestens drei Personen.
 
-(4) Wahlberechtigte, denen es nicht möglich ist einen der Wahltermine wahrzunehmen, wird ab der Bekanntgabe der Kandidaten die Möglichkeit gegeben ihre Stimme per E-Mail abzugeben. Dabei ist jedoch eine vollständig anonyme Wahl nicht möglich. Der Wahlausschuss muss eine vertrauliche Behandlung der abgegebenen Stimmen gewährleisten. Die Abgabe der Stimmen per E-Mail muss vom HPI E-Mailkonto des Wählers erfolgen.
+(4)	Mitglieder des Wahlausschusses können nicht für die Wahlen kandidieren.
 
-(5) Sofern ein Wähler sowohl per E-Mail als auch per Wahlzettel abgestimmt hat, verfällt die Stimmabgabe aus der E-Mail.
+(5)	Der Wahlausschuss kann Wahlhelfer bestimmen. Diese müssen nicht der Fachschaft angehören.
 
-
-## §9 Ergebnisfeststellung
-
-(1) Nach Beendigung der Wahl stellt der Wahlausschuss die Zahl der für jeden Kandidaten abgegebenen Stimmen fest. Die Stimmenauszählung erfolgt spätestens am dritten Vorlesungstag nach der Wahl. Sie erfolgt öffentlich durch den Wahlausschuss.
-
-(2) In den Fachschaftsrat gewählt sind die Personen, die jeweils die meisten Stimmen auf sich vereinen. Sind weniger als die notwendige Anzahl Personen gewählt sind Neuwahlen notwendig (Satzung § 5 Abs. 3). Bei Stimmengleichheit um den letzten Platz entstehen Überhangmandate.
-
-(3) Jede gewählte Person teilt dem Wahlausschuss innerhalb einer Woche mit, ob er oder sie die Wahl annimmt. 
-
-(4) Nachrücker für ein zurückgetretenes Mitglied gemäß §5d der Satzung nehmen die Wahl offiziell gegenüber dem amtierenden Fachschaftsrat an, sobald sie nachrücken sollen.
+(6)	Der Fachschaftsrat muss dem Wahlausschuss alle zur Vorbereitung und Durchführung der Wahlen notwendigen Materialien zur Verfügung stellen.
 
 
-## §10 Veröffentlichung des Wahlergebnisses, Bekanntgabe
+## §7 Wahlausschreibung
 
-(1) Der Wahlausschuss gibt die Ergebnisse der Wahl öffentlich bekannt. Er benachrichtigt ferner schriftlich die gewählten Mitglieder des Fachschaftsrats.
+(1)	Der Wahlausschuss schreibt die Wahlen zum Fachschaftsrat sowie für die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss spätestens zwei Wochen vor der Wahl aus. Die Wahlbekanntmachung ist durch E-Mail an die Fachschaft zu veröffentlichen.
 
-
-## §11 Anfechtungsfrist
-
-(1) Die Wahl kann innerhalb einer Woche nach Veröffentlichung des Wahlergebnisses angefochten werden. Eine Anfechtung erfolgt schriftlich unter Angabe der Gründe beim Wahlausschuss. Als Gründe kommen nur die in § 20 Abs. 2 der Wahlordnung der Studierendenschaft genannten in Betracht.
+(2)	Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und weitere Modalitäten der Wahlen. Sie sollte die in §11 der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 aufgeführten Hinweise enthalten. 
 
 
-## §12 Wahlordnung der Studentenschaft
+## §8 Wahlvorschläge
 
-(1) Diese Wahlordnung ist im Zweifel im Sinne der Bestimmungen der Wahlordnung der Studentenschaft der Universität Potsdam auszulegen.
+(1)	Die Kandidatur für den Fachschaftsrat sowie für die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss erfolgt in Textform. Die Mitteilung über die Kandidatur ist spätestens zwei Wochen vor der Wahl dem Wahlausschuss zuzuleiten. Sie muss Namen und Vornamen, E-Mail-Adresse, Studiengang und falls zutreffend Semesterzahl des Kandidaten enthalten.
 
-(2) Soweit diese Wahlordnung eine Regelung nicht enthält, die unabdingbar ist und nicht durch Auslegung ermittelt werden kann, sind die Vorschriften der Wahlordnung der Studentenschaft entsprechend anzuwenden.
+(2)	Der Wahlausschuss kann eine Verlängerung der Zuleitungsfrist der Wahlvorschläge beschließen, spätestens endet diese aber eine Woche vor der Wahl.
+
+(3)	Die Wahlvorschläge werden eine Woche vor der Wahl per E-Mail an die Fachschaft bekanntgegeben.
 
 
-## §13 Änderungen der Wahlordnung
+## §9 Wahldurchführung
 
-(1) Der Fachschaftsrat kann Veränderungen dieser Wahlordnung vornehmen. Ein entsprechender Beschluss bedarf einer 2/3-Mehrheit aller Mitglieder des Fachschaftsrats.
+(1)	Jedes Mitglied der Fachschaft hat ebenso viele Stimmen, wie Mitglieder des jeweiligen Gremiums zu wählen sind.
+
+(2)	Dem Wähler steht es offen, seine Stimmen auf die Kandidaten zu verteilen. Stimmenhäufung ist nicht zulässig.
+
+(3)	Der Wähler ist nicht an die Kandidaten gebunden.
+
+(4)	Wahlberechtigten wird ab der Bekanntgabe der Kandidaten die Möglichkeit gegeben, ihre Stimme per E-Mail abzugeben. Dieses Verfahren muss einer Briefwahl insofern entsprechen, als abgegebene Stimmen dem Wähler nicht zugeordnet werden dürfen. Dafür ist die Stimmabgabe in einem getrennt von der E-Mail auszuwertenden Anhang zu tätigen. Die Abgabe der Stimmen per E-Mail muss vom HPI-Konto des Wählers erfolgen.
+
+(5)	Sofern ein Wähler sowohl per E-Mail als auch per Wahlzettel abgestimmt hat, verfällt die Stimmabgabe aus der E-Mail.
+
+
+## §10 Ergebnisfeststellung
+
+(1)	Nach Abschluss der Wahl stellt der Wahlausschuss die Zahl der für jeden Kandidaten abgegebenen Stimmen fest. Die Stimmenauszählung erfolgt spätestens am dritten Vorlesungstag nach der Wahl. Sie erfolgt öffentlich für alle Mitglieder der Fachschaft und muss durch den Wahlausschuss spätestens zwei Tage vorher per E-Mail an die Fachschaft angekündigt werden.
+
+(2)	In den Fachschaftsrat, die Studienkommission und die Prüfungskommission gewählt sind die Personen, die jeweils die meisten Stimmen auf sich vereinen. Sind weniger als die notwendige Anzahl Personen gewählt, sind Neuwahlen notwendig.
+
+(3)	Bei Stimmengleichheit um den letzten Platz entstehen im Fachschaftsrat Überhangmandate. Bei Stimmengleichheit in den Wahlen für die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss müssen sich die Kandidaten mit gleicher Stimmenzahl zusammen mit dem Wahlausschuss auf ein Lösungsverfahren einigen.
+
+(4)	Jede gewählte Person muss dem Wahlausschuss innerhalb einer Woche mitteilen, ob er oder sie die Wahl annimmt. Ansonsten gilt die Annahme als verweigert.
+
+
+## §11 Bekanntgabe des Wahlergebnisses
+
+Der Wahlausschuss gibt die Ergebnisse der Wahl per E-Mail an die Fachschaft bekannt. Er benachrichtigt ferner die gewählten Mitglieder des jeweiligen Gremiums.
+
+
+## §12 Anfechtungsfrist
+
+(1)	Die Wahl kann innerhalb einer Woche nach Veröffentlichung des Wahlergebnisses angefochten werden. Eine Anfechtung erfolgt schriftlich unter Angabe der Gründe beim Wahlausschuss. Es kommen nur die in §20 (2) der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 aufgeführten Gründe in Betracht.
+
+(2)	Über Zulässigkeit und Folgen der Anfechtung entscheidet der Wahlausschuss.
+
+
+## §13 Wahlordnung der Universität Potsdam
+
+(1)	Diese Wahlordnung ist im Zweifel im Sinne der Bestimmungen der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 auszulegen.
+
+(2)	Soweit diese Wahlordnung eine Regelung nicht enthält, die unabdingbar ist und nicht durch Auslegung ermittelt werden kann, sind die Vorschriften der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 entsprechend anzuwenden.
+
+
+## §14 Änderung der Wahlordnung
+
+Der Fachschaftsrat kann Veränderungen dieser Wahlordnung vornehmen. Ein entsprechender Beschluss bedarf einer Zwei-Drittel-Mehrheit aller Mitglieder des Fachschaftsrates.
