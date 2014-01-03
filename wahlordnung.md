@@ -49,7 +49,7 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 (4)	Mitglieder des Wahlausschusses können nicht für die Wahlen kandidieren.
 
-(5)	Der Wahlausschuss kann Wahlhelfer bestimmen. Diese müssen nicht der Fachschaft an-gehören.
+(5)	Der Wahlausschuss kann Wahlhelfer bestimmen. Diese müssen nicht der Fachschaft angehören.
 
 (6)	Der Fachschaftsrat muss dem Wahlausschuss alle zur Vorbereitung und Durchführung der Wahlen notwendigen Materialien zur Verfügung stellen.
 
@@ -58,16 +58,16 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 (1)	Der Wahlausschuss schreibt die Wahlen zum Fachschaftsrat sowie für die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss spätestens zwei Wochen vor der Wahl aus. Die Wahlbekanntmachung ist durch E-Mail an die Fachschaft zu veröffentlichen.
 
-(2)	Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und weitere Modalitäten der Wahlen. Sie sollte die in §11 der Rahmenwahlordnung der Studierendenschaft der Uni-versität Potsdam vom 18. Mai 2010 aufgeführten Hinweise enthalten. 
+(2)	Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und weitere Modalitäten der Wahlen. Sie sollte die in §11 der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 aufgeführten Hinweise enthalten. 
 
 
 ## §8 Wahlvorschläge
 
 (1)	Die Kandidatur für den Fachschaftsrat sowie für die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss erfolgt in Textform. Die Mitteilung über die Kandidatur ist spätestens zwei Wochen vor der Wahl dem Wahlausschuss zuzuleiten. Sie muss Namen und Vornamen, E-Mail-Adresse, Studiengang und falls zutreffend Semesterzahl des Kandidaten enthalten.
 
-(2)	Der Wahlausschuss kann eine Verlängerung der Zuleitungsfrist der Wahlvorschläge be-schließen, spätestens endet diese aber eine Woche vor der Wahl.
+(2)	Der Wahlausschuss kann eine Verlängerung der Zuleitungsfrist der Wahlvorschläge beschließen, spätestens endet diese aber eine Woche vor der Wahl.
 
-(3)	Die Wahlvorschläge werden eine Woche vor der Wahl per E-Mail an die Fachschaft be-kanntgegeben.
+(3)	Die Wahlvorschläge werden eine Woche vor der Wahl per E-Mail an die Fachschaft bekanntgegeben.
 
 
 ## §9 Wahldurchführung
@@ -101,7 +101,7 @@ Der Wahlausschuss gibt die Ergebnisse der Wahl per E-Mail an die Fachschaft beka
 
 ## §12 Anfechtungsfrist
 
-(1)	Die Wahl kann innerhalb einer Woche nach Veröffentlichung des Wahlergebnisses ange-fochten werden. Eine Anfechtung erfolgt schriftlich unter Angabe der Gründe beim Wahlausschuss. Es kommen nur die in §20 (2) der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 aufgeführten Gründe in Betracht.
+(1)	Die Wahl kann innerhalb einer Woche nach Veröffentlichung des Wahlergebnisses angefochten werden. Eine Anfechtung erfolgt schriftlich unter Angabe der Gründe beim Wahlausschuss. Es kommen nur die in §20 (2) der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 aufgeführten Gründe in Betracht.
 
 (2)	Über Zulässigkeit und Folgen der Anfechtung entscheidet der Wahlausschuss.
 
@@ -110,7 +110,7 @@ Der Wahlausschuss gibt die Ergebnisse der Wahl per E-Mail an die Fachschaft beka
 
 (1)	Diese Wahlordnung ist im Zweifel im Sinne der Bestimmungen der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 auszulegen.
 
-(2)	Soweit diese Wahlordnung eine Regelung nicht enthält, die unabdingbar ist und nicht durch Auslegung ermittelt werden kann, sind die Vorschriften der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 entsprechend anzu-wenden.
+(2)	Soweit diese Wahlordnung eine Regelung nicht enthält, die unabdingbar ist und nicht durch Auslegung ermittelt werden kann, sind die Vorschriften der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 entsprechend anzuwenden.
 
 
 ## §14 Änderung der Wahlordnung
