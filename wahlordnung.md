@@ -13,7 +13,7 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 
 (1)	In den Fachschaftsrat werden gemäß Satzung der Fachschaft IT-Systems Engineering acht Mitglieder gewählt.
 
-(2)	Gemäß Artikel 23 (3) der Grundordnung der Universität Potsdam vom 27. Februar 2013 werden drei studentische Mitglieder in die Studienkommission gewählt. Zwei der Mitglieder werden von der gesamten Fachschaft gewählt, das dritte Mitglied wird vom Fachschaftsrat per Beschluss aus dessen Mitte bestimmt.
+(2)	Gemäß Artikel 23 (3) der Grundordnung der Universität Potsdam vom 27. Februar 2013 werden drei studentische Mitglieder in die Studienkommission gewählt. Zwei der Mitglieder werden von der gesamten Fachschaft gewählt, das dritte Mitglied wählt der Fachschaftsrat aus seiner Mitte.
 
 (3)	Es wird ein studentisches Mitglied in den Prüfungsausschuss gewählt.
 
@@ -26,7 +26,7 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 
 (3)	Die Wahlen finden gewöhnlich zu Beginn der Vorlesungszeit jedes Sommersemesters statt, spätestens aber einen Monat nach Vorlesungsbeginn. Im Falle einer Neuwahl vor Ablauf einer vollständigen Legislaturperiode ist dieser Zeitpunkt entsprechend anzupassen.
 
-(4) Die Wahlen des studentischen Mitglieds in der Studienkommission, das durch den Fachschaftsrat bestimmt wird, finden während dessen konstituierender Sitzung statt. Die §§ 4 bis 12 finden dabei keine Anwendung. Das Verfahren entspricht dem der in §5a der Satzung der Fachschaft IT-Systems Engineering genannten Ämter.
+(4) Die Wahlen des studentischen Mitglieds in der Studienkommission, das durch den Fachschaftsrat gewählt wird, finden während dessen konstituierender Sitzung statt. Die §§ 4 bis 12 finden dabei keine Anwendung. Das Verfahren entspricht dem der in §5a der Satzung der Fachschaft IT-Systems Engineering genannten Ämter.
 
 
 ## §4 Wahlgrundsatz
@@ -43,7 +43,7 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 ## §6 Wahlausschuss
 
-(1)	Dem Wahlausschuss obliegt die ordnungsgemäße Vorbereitung und Durchführung der Wahlen derjenigen Mitglieder, die nicht durch den Fachschaftsrat aus dessen Mitte bestimmt werden.
+(1)	Dem Wahlausschuss obliegt die ordnungsgemäße Vorbereitung und Durchführung der Wahlen derjenigen Mitglieder, die nicht durch den Fachschaftsrat gewählt werden.
 
 (2)	Der Wahlausschuss wird spätestens sechs Wochen vor dem geplanten Wahltermin durch den Fachschaftsrat aus der Mitte der Fachschaft gebildet.
 
