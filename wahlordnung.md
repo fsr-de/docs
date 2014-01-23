@@ -38,7 +38,9 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 
 ## §5 Wahlrecht
 
-Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
+(1) Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht für den Fachschaftsrat.
+
+(2) Für die Studienkommission und den Prüfungsausschuss besitzen nur Studierende des Bachelor- oder Masterstudiengangs aktives und passives Wahlrecht.
 
 
 ## §6 Wahlausschuss
