@@ -1,6 +1,6 @@
 # Wahlordnung der Fachschaft IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Wahlordnung ist am 21.02.2013 durch Beschluss des Fachschaftsrates in Kraft getreten.
+Diese Wahlordnung ist am 23.01.2014 durch Beschluss des Fachschaftsrates in Kraft getreten.
 
 
 
@@ -13,35 +13,39 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 
 (1)	In den Fachschaftsrat werden gemäß Satzung der Fachschaft IT-Systems Engineering acht Mitglieder gewählt.
 
-(2)	Gemäß Artikel 23 (4) der Grundordnung der Universität Potsdam vom 17. Dezember 2009 werden zwei studentische Mitglieder in die Studienkommission gewählt.
+(2)	Gemäß Artikel 23 (3) der Grundordnung der Universität Potsdam vom 27. Februar 2013 werden drei studentische Mitglieder in die Studienkommission gewählt. Zwei der Mitglieder werden von der gesamten Fachschaft gewählt, das dritte Mitglied wählt der Fachschaftsrat aus seiner Mitte.
 
 (3)	Es wird ein studentisches Mitglied in den Prüfungsausschuss gewählt.
 
 
 ## §3 Amtszeit und Wahltermin
 
-(1)	Der Fachschaftsrat sowie die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss werden für ein Jahr gewählt und bleiben kommissarisch über den Wahlzeitraum hinaus im Amt, bis die Gremien neu gewählt wurden. Ausnahmen hiervon bilden Rücktritte und Nachrücker im Fachschaftsrat gemäß Satzung.
+(1)	Der Fachschaftsrat sowie die von der Fachschaft gewählten studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss werden für ein Jahr gewählt und bleiben kommissarisch über den Wahlzeitraum hinaus im Amt, bis die Gremien neu gewählt wurden. Ausnahmen hiervon bilden Rücktritte und Nachrücker im Fachschaftsrat gemäß Satzung.
 
 (2)	Die Amtszeit der gewählten Mitglieder beginnt unmittelbar nach Feststellung des Wahlergebnisses. Gleichzeitig endet die Amtszeit der bisherigen Mitglieder.
 
 (3)	Die Wahlen finden gewöhnlich zu Beginn der Vorlesungszeit jedes Sommersemesters statt, spätestens aber einen Monat nach Vorlesungsbeginn. Im Falle einer Neuwahl vor Ablauf einer vollständigen Legislaturperiode ist dieser Zeitpunkt entsprechend anzupassen.
 
+(4) Die Wahlen des studentischen Mitglieds in der Studienkommission, das durch den Fachschaftsrat gewählt wird, finden während dessen konstituierender Sitzung statt. Die §§ 4 bis 12 finden dabei keine Anwendung. Das Verfahren entspricht dem der in §5a der Satzung der Fachschaft IT-Systems Engineering genannten Ämter.
+
 
 ## §4 Wahlgrundsatz
 
-(1)	Die Wahlen erfolgen in freier, gleicher, unmittelbarer und geheimer Wahl.
+(1)	Die Wahlen der Fachschaft erfolgen in freier, gleicher, unmittelbarer und geheimer Wahl.
 
 (2)	Es findet eine Mehrheitswahl statt.
 
 
 ## §5 Wahlrecht
 
-Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
+(1) Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht für den Fachschaftsrat.
+
+(2) Für die Studienkommission und den Prüfungsausschuss besitzen nur Studierende des Bachelor- oder Masterstudiengangs aktives und passives Wahlrecht.
 
 
 ## §6 Wahlausschuss
 
-(1)	Dem Wahlausschuss obliegt die ordnungsgemäße Vorbereitung und Durchführung der Wahlen.
+(1)	Dem Wahlausschuss obliegt die ordnungsgemäße Vorbereitung und Durchführung der Wahlen derjenigen Mitglieder, die nicht durch den Fachschaftsrat gewählt werden.
 
 (2)	Der Wahlausschuss wird spätestens sechs Wochen vor dem geplanten Wahltermin durch den Fachschaftsrat aus der Mitte der Fachschaft gebildet.
 
@@ -56,14 +60,14 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 ## §7 Wahlausschreibung
 
-(1)	Der Wahlausschuss schreibt die Wahlen zum Fachschaftsrat sowie für die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss spätestens zwei Wochen vor der Wahl aus. Die Wahlbekanntmachung ist durch E-Mail an die Fachschaft zu veröffentlichen.
+(1)	Der Wahlausschuss schreibt die Wahlen zum Fachschaftsrat sowie für zwei studentische Mitglieder in der Studienkommission und ein studentisches Mitglied im Prüfungsausschuss spätestens drei Wochen vor der Wahl aus. Die Wahlbekanntmachung ist durch E-Mail an die Fachschaft zu veröffentlichen.
 
 (2)	Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und weitere Modalitäten der Wahlen. Sie sollte die in §11 der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 aufgeführten Hinweise enthalten. 
 
 
 ## §8 Wahlvorschläge
 
-(1)	Die Kandidatur für den Fachschaftsrat sowie für die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss erfolgt in Textform. Die Mitteilung über die Kandidatur ist spätestens zwei Wochen vor der Wahl dem Wahlausschuss zuzuleiten. Sie muss Namen und Vornamen, E-Mail-Adresse, Studiengang und falls zutreffend Semesterzahl des Kandidaten enthalten.
+(1)	Die Kandidatur für den Fachschaftsrat sowie für die durch die Fachschaft gewählten studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss erfolgt in Textform. Die Mitteilung über die Kandidatur ist spätestens zwei Wochen vor der Wahl dem Wahlausschuss zuzuleiten. Sie muss Namen und Vornamen, E-Mail-Adresse, Studiengang und falls zutreffend Semesterzahl des Kandidaten enthalten.
 
 (2)	Der Wahlausschuss kann eine Verlängerung der Zuleitungsfrist der Wahlvorschläge beschließen, spätestens endet diese aber eine Woche vor der Wahl.
 
@@ -87,9 +91,9 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 (1)	Nach Abschluss der Wahl stellt der Wahlausschuss die Zahl der für jeden Kandidaten abgegebenen Stimmen fest. Die Stimmenauszählung erfolgt spätestens am dritten Vorlesungstag nach der Wahl. Sie erfolgt öffentlich für alle Mitglieder der Fachschaft und muss durch den Wahlausschuss spätestens zwei Tage vorher per E-Mail an die Fachschaft angekündigt werden.
 
-(2)	In den Fachschaftsrat, die Studienkommission und die Prüfungskommission gewählt sind die Personen, die jeweils die meisten Stimmen auf sich vereinen. Sind weniger als die notwendige Anzahl Personen gewählt, sind Neuwahlen notwendig.
+(2)	In den Fachschaftsrat, die Studienkommission und den Prüfungsausschuss gewählt sind die Personen, die jeweils die meisten Stimmen auf sich vereinen. Sind weniger als die notwendige Anzahl Personen gewählt, sind Neuwahlen notwendig.
 
-(3)	Bei Stimmengleichheit um den letzten Platz entstehen im Fachschaftsrat Überhangmandate. Bei Stimmengleichheit in den Wahlen für die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss müssen sich die Kandidaten mit gleicher Stimmenzahl zusammen mit dem Wahlausschuss auf ein Lösungsverfahren einigen.
+(3)	Bei Stimmengleichheit um den letzten Platz entstehen im Fachschaftsrat Überhangmandate. Bei Stimmengleichheit in den Wahlen für die studentischen Mitglieder in der Studienkommission und dem Prüfungsausschuss müssen sich die betroffenen Kandidaten mit gleicher Stimmenzahl zusammen mit dem Wahlausschuss auf ein Lösungsverfahren einigen.
 
 (4)	Jede gewählte Person muss dem Wahlausschuss innerhalb einer Woche mitteilen, ob er oder sie die Wahl annimmt. Ansonsten gilt die Annahme als verweigert.
 
