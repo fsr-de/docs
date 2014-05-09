@@ -1,6 +1,6 @@
 # Wahlordnung der Fachschaft IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Wahlordnung ist am 23.01.2014 durch Beschluss des Fachschaftsrates in Kraft getreten.
+Diese Wahlordnung ist am 15.05.2014 durch Beschluss des Fachschaftsrates in Kraft getreten.
 
 
 
@@ -26,7 +26,7 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 
 (3)	Die Wahlen finden gewöhnlich zu Beginn der Vorlesungszeit jedes Sommersemesters statt, spätestens aber einen Monat nach Vorlesungsbeginn. Im Falle einer Neuwahl vor Ablauf einer vollständigen Legislaturperiode ist dieser Zeitpunkt entsprechend anzupassen.
 
-(4) Die Wahlen des studentischen Mitglieds in der Studienkommission, das durch den Fachschaftsrat gewählt wird, finden während dessen konstituierender Sitzung statt. Die §§ 4 bis 12 finden dabei keine Anwendung. Das Verfahren entspricht dem der in §5a der Satzung der Fachschaft IT-Systems Engineering genannten Ämter.
+(4) Die Wahl des studentischen Mitglieds in der Studienkommission, das durch den Fachschaftsrat gewählt wird, findet während dessen konstituierender Sitzung statt. Die §§4 bis 12 finden dabei keine Anwendung. Das Verfahren entspricht dem der in §5a der Satzung der Fachschaft IT-Systems Engineering genannten Ämter.
 
 
 ## §4 Wahlgrundsatz
@@ -72,6 +72,15 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 (2)	Der Wahlausschuss kann eine Verlängerung der Zuleitungsfrist der Wahlvorschläge beschließen, spätestens endet diese aber eine Woche vor der Wahl.
 
 (3)	Die Wahlvorschläge werden eine Woche vor der Wahl per E-Mail an die Fachschaft bekanntgegeben.
+
+
+## §8a Fehlende Kandidaten bei der Wahl zum Prüfungsausschuss
+
+(1) Gibt es für die Wahl für das studentische Mitglied im Prüfungsausschuss keinen Kandidaten und hat bis zum Beginn der Stimmabgabe keine wahlberechtigte Person gegenüber der Fachschaft zu verstehen gegeben, für das Amt zur Verfügung zu stehen, so findet abweichend von §2 (3) keine Wahl für das studentische Mitglied im Prüfungsausschuss durch die gesamte Fachschaft statt.
+
+(2) Das Amt muss in diesem Fall vom Fachschaftsrat übernommen werden.
+
+(3) Die Wahl des studentischen Mitglieds im Prüfungsausschuss findet in diesem Fall während der konstituierenden Sitzung des neuen Fachschaftsrates statt. Die §§4 bis 12 finden dabei keine Anwendung. Das Verfahren entspricht dem der in §5a der Satzung der Fachschaft IT-Systems Engineering genannten Ämter.
 
 
 ## §9 Wahldurchführung
