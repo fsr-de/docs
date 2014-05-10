@@ -78,7 +78,7 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 
 (1) Gibt es für die Wahl für das studentische Mitglied im Prüfungsausschuss keinen Kandidaten und hat bis zum Beginn der Stimmabgabe keine wahlberechtigte Person gegenüber der Fachschaft zu verstehen gegeben, für das Amt zur Verfügung zu stehen, so findet abweichend von §2 (3) keine Wahl für das studentische Mitglied im Prüfungsausschuss durch die gesamte Fachschaft statt.
 
-(2) Das Amt muss in diesem Fall vom Fachschaftsrat übernommen werden.
+(2) Das Amt muss in diesem Fall von einem Mitglied des Fachschaftsrates übernommen werden.
 
 (3) Die Wahl des studentischen Mitglieds im Prüfungsausschuss findet in diesem Fall während der konstituierenden Sitzung des neuen Fachschaftsrates statt. Die §§4 bis 12 finden dabei keine Anwendung. Das Verfahren entspricht dem der in §5a der Satzung der Fachschaft IT-Systems Engineering genannten Ämter.
 
