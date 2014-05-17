@@ -1,6 +1,6 @@
 # Wahlordnung der Fachschaft IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Wahlordnung ist am 15.05.2014 durch Beschluss des Fachschaftsrates in Kraft getreten.
+Diese Wahlordnung ist am 16.05.2014 durch Beschluss des Fachschaftsrates in Kraft getreten.
 
 
 
