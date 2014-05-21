@@ -128,4 +128,4 @@ Der Wahlausschuss gibt die Ergebnisse der Wahl per E-Mail an die Fachschaft beka
 
 ## §14 Änderung der Wahlordnung
 
-Die Änderung der Wahlrodnung kann nur erfolgen, wenn zwei Drittel der bei einer Vollversammlung stimmberechtigten Anwesenden dem Antrag zustimmen.
+Die Änderung der Wahlordnung kann nur erfolgen, wenn zwei Drittel der bei einer Vollversammlung stimmberechtigten Anwesenden dem Antrag zustimmen.
