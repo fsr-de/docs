@@ -128,4 +128,4 @@ Der Wahlausschuss gibt die Ergebnisse der Wahl per E-Mail an die Fachschaft beka
 
 ## §14 Änderung der Wahlordnung
 
-Der Fachschaftsrat kann Veränderungen dieser Wahlordnung vornehmen. Ein entsprechender Beschluss bedarf einer Zwei-Drittel-Mehrheit aller Mitglieder des Fachschaftsrates.
+Der Fachschaftsrat kann Veränderungen dieser Wahlordnung vornehmen. Ein entsprechender Beschluss bedarf einer Zwei-Drittel-Mehrheit aller Mitglieder des Fachschaftsrates. Die Fachschaft wird über jede Änderung der Wahlordnung durch den Fachschaftsrat zeitnah informiert.
