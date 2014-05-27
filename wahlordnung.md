@@ -1,6 +1,6 @@
 # Wahlordnung der Fachschaft IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Wahlordnung ist am 16.05.2014 durch Beschluss des Fachschaftsrates in Kraft getreten.
+Diese Wahlordnung ist am 28.05.2014 durch Beschluss des Fachschaftsrates in Kraft getreten.
 
 
 
@@ -27,6 +27,8 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 (3)	Die Wahlen finden gewöhnlich zu Beginn der Vorlesungszeit jedes Sommersemesters statt, spätestens aber einen Monat nach Vorlesungsbeginn. Im Falle einer Neuwahl vor Ablauf einer vollständigen Legislaturperiode ist dieser Zeitpunkt entsprechend anzupassen.
 
 (4) Die Wahl des studentischen Mitglieds in der Studienkommission, das durch den Fachschaftsrat gewählt wird, findet während dessen konstituierender Sitzung statt. Die §§4 bis 12 finden dabei keine Anwendung. Das Verfahren entspricht dem der in §5a der Satzung der Fachschaft IT-Systems Engineering genannten Ämter.
+
+(5) Als Zeitraum der Wahlen ist die Zeit zwischen Einberufung des Wahlausschusses und Ablauf der Anfechtungsfrist zu verstehen.
 
 
 ## §4 Wahlgrundsatz
@@ -128,4 +130,8 @@ Der Wahlausschuss gibt die Ergebnisse der Wahl per E-Mail an die Fachschaft beka
 
 ## §14 Änderung der Wahlordnung
 
-Der Fachschaftsrat kann Veränderungen dieser Wahlordnung vornehmen. Ein entsprechender Beschluss bedarf einer Zwei-Drittel-Mehrheit aller Mitglieder des Fachschaftsrates.
+(1) Der Fachschaftsrat kann Veränderungen dieser Wahlordnung vornehmen. Ein entsprechender Beschluss bedarf einer Zwei-Drittel-Mehrheit aller Mitglieder des Fachschaftsrates.
+
+(2) Der Fachschaftsrat muss die Fachschaft innerhalb von drei Tagen nach dem Beschluss per E-Mail über die Änderung informieren.
+
+(3) Während des Zeitraums einer Wahl gilt ausschließlich diejenige Wahlordnung, die bei Einberufung des Wahlausschusses Gültigkeit hatte.
