@@ -134,4 +134,4 @@ Der Wahlausschuss gibt die Ergebnisse der Wahl per E-Mail an die Fachschaft beka
 
 (2) Der Fachschaftsrat muss die Fachschaft innerhalb von drei Tagen nach dem Beschluss per E-Mail über die Änderung informieren.
 
-(3) Während des Zeitraumes einer Wahl gilt die Wahlordnung in der zum Zeitpunkt der Einberufung des Wahlausschusses geltenden Fassung.
+(3) Während des Zeitraumes einer Wahl gilt die Wahlordnung in der zum Beginn des Zeitraumes geltenden Fassung.
