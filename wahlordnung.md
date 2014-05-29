@@ -64,7 +64,7 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 
 (1)	Der Wahlausschuss schreibt die Wahlen zum Fachschaftsrat sowie für zwei studentische Mitglieder in der Studienkommission und ein studentisches Mitglied im Prüfungsausschuss spätestens drei Wochen vor der Wahl aus. Die Wahlbekanntmachung ist durch E-Mail an die Fachschaft zu veröffentlichen.
 
-(2)	Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und weitere Modalitäten der Wahlen. Sie sollte die in §11 der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 aufgeführten Hinweise enthalten. 
+(2)	Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und weitere Modalitäten der Wahlen. Sie sollte die in §11 der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 8. Mai 2012 aufgeführten Hinweise enthalten. 
 
 
 ## §8 Wahlvorschläge
@@ -116,16 +116,16 @@ Der Wahlausschuss gibt die Ergebnisse der Wahl per E-Mail an die Fachschaft beka
 
 ## §12 Anfechtungsfrist
 
-(1)	Die Wahl kann innerhalb einer Woche nach Veröffentlichung des Wahlergebnisses angefochten werden. Eine Anfechtung erfolgt schriftlich unter Angabe der Gründe beim Wahlausschuss. Es kommen nur die in §20 (2) der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 aufgeführten Gründe in Betracht.
+(1)	Die Wahl kann innerhalb einer Woche nach Veröffentlichung des Wahlergebnisses angefochten werden. Eine Anfechtung erfolgt schriftlich unter Angabe der Gründe beim Wahlausschuss. Es kommen nur die in §20 (2) der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 8. Mai 2012 aufgeführten Gründe in Betracht.
 
 (2)	Über Zulässigkeit und Folgen der Anfechtung entscheidet der Wahlausschuss.
 
 
 ## §13 Wahlordnung der Universität Potsdam
 
-(1)	Diese Wahlordnung ist im Zweifel im Sinne der Bestimmungen der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 auszulegen.
+(1)	Diese Wahlordnung ist im Zweifel im Sinne der Bestimmungen der aktuellen Rahmenwahlordnung der Studierendenschaft der Universität Potsdam auszulegen.
 
-(2)	Soweit diese Wahlordnung eine Regelung nicht enthält, die unabdingbar ist und nicht durch Auslegung ermittelt werden kann, sind die Vorschriften der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 18. Mai 2010 entsprechend anzuwenden.
+(2)	Soweit diese Wahlordnung eine Regelung nicht enthält, die unabdingbar ist und nicht durch Auslegung ermittelt werden kann, sind die Vorschriften der aktuellen Rahmenwahlordnung der Studierendenschaft der Universität Potsdam entsprechend anzuwenden.
 
 
 ## §14 Änderung der Wahlordnung
