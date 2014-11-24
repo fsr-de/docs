@@ -1,6 +1,6 @@
 # Wahlordnung zum Fachschaftsrat des IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Wahlordnung ist am 22.04.2010 durch Beschluss des Fachschaftsrates vom 27.03.2012 in Kraft getreten.
+Diese Wahlordnung ist am 26.04.2012 durch Beschluss des Fachschaftsrates vom 27.03.2012 in Kraft getreten.
 
 
 
@@ -11,9 +11,9 @@ Diese Wahlordnung ist am 22.04.2010 durch Beschluss des Fachschaftsrates vom 27.
 
 ## §2 Amtszeit, Wahltermin
 
-(1) Der Fachschaftsrat wird für ein Jahr gewählt und und bleibt kommissarisch über den Wahlzeitraum hinaus im Amt, bis ein neuer Fachschaftsrat gewählt wurde. Die Wahlen finden zum Beginn der Vorlesungszeit eines jeden Sommersemesters statt, spätestens aber einen Monat nach Vorlesungsbeginn.
+(1) Der Fachschaftsrat wird für ein Jahr gewählt und bleibt kommissarisch über den Wahlzeitraum hinaus im Amt, bis ein neuer Fachschaftsrat gewählt wurde. Ausnahmen hiervon bilden Rücktritte und Nachrücker gemäß Satzung.
 
-(2) Die Amtszeit der gewählten Mitglieder beginnt unmittelbar nach Feststellung des Wahlergebnisses § 9). Gleichzeitig endet die Amtszeit der bisherigen Mitglieder des Fachschaftsrats.
+(2) Die Wahlen finden gewöhnlich zum Beginn der Vorlesungszeit eines jeden Sommersemesters statt, spätestens aber einen Monat nach Vorlesungsbeginn. Die Amtszeit der gewählten Mitglieder beginnt unmittelbar nach Feststellung des Wahlergebnisses (siehe § 9). Gleichzeitig endet die Amtszeit der bisherigen Mitglieder des Fachschaftsrats.
 
 
 ## §3 Wahlgrundsatz
@@ -61,24 +61,28 @@ Diese Wahlordnung ist am 22.04.2010 durch Beschluss des Fachschaftsrates vom 27.
 
 (4) Wahlberechtigte, denen es nicht möglich ist einen der Wahltermine wahrzunehmen, wird ab der Bekanntgabe der Kandidaten die Möglichkeit gegeben ihre Stimme per E-Mail abzugeben. Dabei ist jedoch eine vollständig anonyme Wahl nicht möglich. Der Wahlausschuss muss eine vertrauliche Behandlung der abgegebenen Stimmen gewährleisten. Die Abgabe der Stimmen per E-Mail muss vom HPI E-Mailkonto des Wählers erfolgen.
 
-(5)  Sofern ein Wähler sowohl per E-Mail als auch per Wahlzettel abgestimmt hat, verfällt die Stimmabgabe aus der E-Mail.
+(5) Sofern ein Wähler sowohl per E-Mail als auch per Wahlzettel abgestimmt hat, verfällt die Stimmabgabe aus der E-Mail.
 
 
 ## §9 Ergebnisfeststellung
 
 (1) Nach Beendigung der Wahl stellt der Wahlausschuss die Zahl der für jeden Kandidaten abgegebenen Stimmen fest. Die Stimmenauszählung erfolgt spätestens am dritten Vorlesungstag nach der Wahl. Sie erfolgt öffentlich durch den Wahlausschuss.
 
-(2) In den Fachschaftsrat gewählt sind die Kandidaten, die jeweils die meisten Stimmen auf sich vereinen. Bei weniger als die Mindestanzahl an Kandidaten sind diejenigen gewählt, auf die mindestens eine Stimme entfiel. Bei Stimmengleichheit um den letzten Platz entstehen Überhangmandate.
+(2) In den Fachschaftsrat gewählt sind die Personen, die jeweils die meisten Stimmen auf sich vereinen. Sind weniger als die notwendige Anzahl Personen gewählt sind Neuwahlen notwendig (Satzung § 5 Abs. 3). Bei Stimmengleichheit um den letzten Platz entstehen Überhangmandate.
+
+(3) Jede gewählte Person teilt dem Wahlausschuss innerhalb einer Woche mit, ob er oder sie die Wahl annimmt. 
+
+(4) Nachrücker für ein zurückgetretenes Mitglied gemäß §5d der Satzung nehmen die Wahl offiziell gegenüber dem amtierenden Fachschaftsrat an, sobald sie nachrücken sollen.
 
 
 ## §10 Veröffentlichung des Wahlergebnisses, Bekanntgabe
 
-(1) Der Wahlausschuss gibt die Ergebnisse der Wahl öffentlich bekannt. Er benachrichtigt ferner schriftlich die gewählten Fachschaftsratsmitglieder.
+(1) Der Wahlausschuss gibt die Ergebnisse der Wahl öffentlich bekannt. Er benachrichtigt ferner schriftlich die gewählten Mitglieder des Fachschaftsrats.
 
 
 ## §11 Anfechtungsfrist
 
-(1) Die Wahl kann innerhalb einer Woche nach Veröffentlichung des Wahlergebnisses angefochten werden. Eine Anfechtung erfolgt schriftlich unter Angabe der Gründe beim Wahlausschuss. Als Gründe kommen nur die in § 20 II der Wahlordnung der Studierendenschaft genannten in Betracht.
+(1) Die Wahl kann innerhalb einer Woche nach Veröffentlichung des Wahlergebnisses angefochten werden. Eine Anfechtung erfolgt schriftlich unter Angabe der Gründe beim Wahlausschuss. Als Gründe kommen nur die in § 20 Abs. 2 der Wahlordnung der Studierendenschaft genannten in Betracht.
 
 
 ## §12 Wahlordnung der Studentenschaft
@@ -90,4 +94,4 @@ Diese Wahlordnung ist am 22.04.2010 durch Beschluss des Fachschaftsrates vom 27.
 
 ## §13 Änderungen der Wahlordnung
 
-(1) Der Fachschaftsrat kann Veränderungen dieser Wahlordnung vornehmen. Ein entsprechender Beschluss bedarf einer 2/3- Mehrheit aller Mitglieder des Fachschaftsrats.
+(1) Der Fachschaftsrat kann Veränderungen dieser Wahlordnung vornehmen. Ein entsprechender Beschluss bedarf einer 2/3-Mehrheit aller Mitglieder des Fachschaftsrats.
