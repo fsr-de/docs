@@ -1,13 +1,13 @@
 # Dokumente der Fachschaft IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Dieses Git Repository enthält die Satzung und die Wahlordnung der Fachschaft IT-Systems Engineering im Markdown-Format. Hier lassen sich bisherige Versionen ansehen und Änderungen nachverfolgen.
+Dieses Git Repository enthält die Satzung und die Wahlordnung der Fachschaft IT-Systems Engineering sowie die Geschäftsordnung des Fachschaftsrates IT-Systems Engineering im Markdown-Format. Hier lassen sich bisherige Versionen ansehen und Änderungen nachverfolgen.
 
 
 ## Pull requests
 
 ... sind sehr herzlich willkommen.
 Bevor eine Änderung in der Satzung erscheint, muss sie jedoch von der Vollversammlung der Fachschaft angenommen werden.
-Änderungen an der Wahlordnung bedürfen eines Beschlusses des Fachschaftsrates.
+Änderungen an der Wahlordnung und der FSR-Geschäftsordnung bedürfen eines Beschlusses des Fachschaftsrates.
 
 
 ### Richtlinien
