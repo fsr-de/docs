@@ -37,11 +37,11 @@ Die Geschäftsordnung gilt für den Fachschaftsrat IT-Systems Engineering am Has
 
 ##§ 4 Aufgabenverteilung
 
-(1) Der Vorsitzende des Fachschaftsrates ist verantwortlich für die Sitzungsleitung gemäß § 5.
+(1) Der Vorsitzende des Fachschaftsrates ist verantwortlich für die Sitzungsleitung gemäß § 6.
 
 (2) Der Finanzreferent verwaltet die Finanzen der Fachschaft gemäß den Beschlüssen des Fachschaftsrates. Er und der ggf. gewählte Stellvertretende sind zu einzeln Verfügungsberechtigten zu erklären. Der Finanzreferent sollte den Finanz-Workshop des Allgemeinen Studierendenausschusses der Universität Potsdam besuchen.
 
-(3) Zu Beginn jeder Sitzung ist vom Sitzungsleitenden ein Protokollführender festzulegen, der alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Der Protokollführende muss persönlich anwesend sein. Weiteres regelt § 7.
+(3) Zu Beginn jeder Sitzung ist vom Sitzungsleitenden ein Protokollführender festzulegen, der alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Der Protokollführende muss persönlich anwesend sein. Weiteres regelt § 8.
 
 (4) Die in § 3 (2) festgelegten Ämter können jeweils durch ein konstruktives Misstrauensvotum des Fachschaftsrates oder nach dem Rücktritt einer Person von diesem Amt neu vergeben werden. Wird das Amt eines Stellvertreters frei, findet eine Neuwahl nur auf Beschluss des Fachschaftsrates statt.
 
@@ -62,7 +62,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 (2) Der Sitzungsleitende ist verantwortlich für die Einberufung der Sitzung, Verwaltung der Tagesordnung und Festlegung der Protokollführung.
 
-(3) Die Sitzungsleitung wird in der Regel vom Vorsitzenden oder dem stellvertreten Vorsitzenden wahrgenommen. Es steht ihnen frei, die Sitzungsleitung für die betreffende Sitzung einstimmig auf ein anderes Mitglied zu übertragen. Diese Entscheidung erhält per Mitteilung an den gesamten Fachschaftsrat Gültigkeit.
+(3) Die Sitzungsleitung wird in der Regel vom Vorsitzenden oder dem stellvertretenden Vorsitzenden wahrgenommen. Es steht ihnen frei, die Sitzungsleitung für die betreffende Sitzung einstimmig auf ein anderes Mitglied zu übertragen. Diese Entscheidung erhält per Mitteilung an den gesamten Fachschaftsrat Gültigkeit.
 
 
 ##§ 7 Beschlüsse
