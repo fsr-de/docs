@@ -1,6 +1,6 @@
 # Geschäftsordnung des Fachschaftsrates IT-Systems Engineering
 
-Diese Geschäftsordnung wurde am 02.05.2016 vom Fachschaftsrat beschlossen.
+Diese Geschäftsordnung wurde am 05.12.2016 vom Fachschaftsrat beschlossen.
 
 
 
@@ -22,7 +22,7 @@ Die Geschäftsordnung gilt für den Fachschaftsrat IT-Systems Engineering am Has
 (5) Für ein Amt gewählt ist, wer die absolute Mehrheit an Stimmen erhält. Erhält keine Person die absolute Mehrheit, erfolgen weitere Wahlgänge. Ist nach drei Wahlgängen für einen Stellvertreterposten keine Person gewählt, wird der Posten nicht besetzt. Ist bei einer anderen Wahl nach drei Wahlgängen keine Person gewählt, kann der Fachschaftsrat mit einfacher Mehrheit die Vertagung der Wahl um höchstens sieben Tage beschließen. Anderenfalls wird die Wahl um jeweils einen Wahlgang verlängert, bis eine Person mit absoluter Mehrheit gewählt oder die Wahl vertagt wurde.
 
 
-##§ 3 Konstituierung
+##§ 3 Konstituierung und Ämter
 
 (1) Der Fachschaftsrat tritt spätestens eine Woche nach der Bekanntgabe der Wahlergebnisse auf Einladung des Wahlausschusses zusammen.
 
@@ -37,11 +37,11 @@ Die Geschäftsordnung gilt für den Fachschaftsrat IT-Systems Engineering am Has
 
 ##§ 4 Aufgabenverteilung
 
-(1) Der Vorsitzende des Fachschaftsrates ist verantwortlich für die Sitzungsleitung gemäß § 5.
+(1) Der Vorsitzende des Fachschaftsrates ist verantwortlich für die Sitzungsleitung gemäß § 6.
 
 (2) Der Finanzreferent verwaltet die Finanzen der Fachschaft gemäß den Beschlüssen des Fachschaftsrates. Er und der ggf. gewählte Stellvertretende sind zu einzeln Verfügungsberechtigten zu erklären. Der Finanzreferent sollte den Finanz-Workshop des Allgemeinen Studierendenausschusses der Universität Potsdam besuchen.
 
-(3) Zu Beginn jeder Sitzung ist vom Sitzungsleitenden ein Protokollführender festzulegen, der alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Der Protokollführende muss persönlich anwesend sein. Weiteres regelt § 7.
+(3) Zu Beginn jeder Sitzung ist vom Sitzungsleitenden ein Protokollführender festzulegen, der alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Der Protokollführende muss persönlich anwesend sein. Weiteres regelt § 8.
 
 (4) Die in § 3 (2) festgelegten Ämter können jeweils durch ein konstruktives Misstrauensvotum des Fachschaftsrates oder nach dem Rücktritt einer Person von diesem Amt neu vergeben werden. Wird das Amt eines Stellvertreters frei, findet eine Neuwahl nur auf Beschluss des Fachschaftsrates statt.
 
@@ -62,18 +62,20 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 (2) Der Sitzungsleitende ist verantwortlich für die Einberufung der Sitzung, Verwaltung der Tagesordnung und Festlegung der Protokollführung.
 
-(3) Die Sitzungsleitung wird in der Regel vom Vorsitzenden oder dem stellvertreten Vorsitzenden wahrgenommen. Es steht ihnen frei, die Sitzungsleitung für die betreffende Sitzung einstimmig auf ein anderes Mitglied zu übertragen. Diese Entscheidung erhält per Mitteilung an den gesamten Fachschaftsrat Gültigkeit.
+(3) Die Sitzungsleitung wird in der Regel vom Vorsitzenden oder dem stellvertretenden Vorsitzenden wahrgenommen. Es steht ihnen frei, die Sitzungsleitung für die betreffende Sitzung einstimmig auf ein anderes Mitglied zu übertragen. Diese Entscheidung erhält per Mitteilung an den gesamten Fachschaftsrat Gültigkeit.
 
 
 ##§ 7 Beschlüsse
 
 (1) Der Fachschaftsrat ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist, wobei mindestens zwei Mitglieder persönlich anwesend sein müssen.
 
-(2) Beschlüsse werden mit der einfachen Mehrheit aller gültigen von anwesenden Mitgliedern abgegebenen Stimmen gefasst. Gibt es mehr Enthaltungen als Ja- und Nein-Stimmen zusammengezählt, ist der Antrag mit einer Enthaltungsmehrheit abgelehnt. Bei Stimmengleichheit entscheidet der Sitzungsleitende über Annahme oder Ablehnung. 
+(2) Beschlüsse werden in einer offenen Abstimmung aller anwesenden Mitglieder gefasst. Ein Beschluss gilt als angenommen, wenn er mehr Ja- als Nein-Stimmen erhält. Bei Stimmengleichheit zwischen Ja- und Nein-Stimmen entscheidet der Sitzungsleitende über Annahme oder Ablehnung.
 
-(3) Die Beschlüsse des Fachschaftsrates werden in Protokollen festgehalten.
+(3) Abweichend von (2) gilt ein Beschluss als nicht gefasst, wenn mehr Enthaltungen als Ja- und Nein-Stimmen zusammengezählt abgegeben wurden.
 
-(4) In dringenden Fällen kann der Fachschaftsrat einen Beschluss im Umlaufverfahren fassen. Dazu stellt ein Mitglied des Fachschaftsrates einen ausformulierten Beschlussantrag. Alle Mitglieder des Fachschaftsrates können eine Stimme zum Beschlussantrag abgeben. Es zählt die zuerst abgegebene Stimme. Ein Umlaufbeschluss ist angenommen, sobald eine Zwei-Drittel-Mehrheit der Mitglieder des Fachschaftsrates dafür gestimmt hat. Der Beschluss ist im Protokoll der nächsten Sitzung festzuhalten.
+(4) Die Beschlüsse des Fachschaftsrates werden in Protokollen festgehalten.
+
+(5) In dringenden Fällen kann der Fachschaftsrat einen Beschluss im Umlaufverfahren fassen. Dazu stellt ein Mitglied des Fachschaftsrates einen ausformulierten Beschlussantrag. Alle Mitglieder des Fachschaftsrates können eine Stimme zum Beschlussantrag abgeben. Es zählt die zuerst abgegebene Stimme. Ein Umlaufbeschluss ist angenommen, sobald eine Zwei-Drittel-Mehrheit der Mitglieder des Fachschaftsrates dafür gestimmt hat. Der Beschluss ist im Protokoll der nächsten Sitzung festzuhalten.
 
 
 ##§ 8 Sitzungsprotokolle
