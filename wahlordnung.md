@@ -1,6 +1,6 @@
 # Wahlordnung der Fachschaft IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Wahlordnung ist am 23.01.2017 durch Beschluss des Fachschaftsrates in Kraft getreten.
+Diese Wahlordnung ist am 30.01.2017 durch Beschluss des Fachschaftsrates in Kraft getreten.
 
 
 
@@ -26,7 +26,7 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 
 (3) Die Wahlen finden gewöhnlich zu Beginn der Vorlesungszeit jedes Sommersemesters statt, spätestens aber einen Monat nach Vorlesungsbeginn. Im Falle einer Neuwahl vor Ablauf einer vollständigen Legislaturperiode ist dieser Zeitpunkt entsprechend anzupassen.
 
-(4) Die Wahl des durch den Fachschaftsrat zu wählenden studentischen Mitglieds in der Studienkommission findet während der konstituierenden Sitzung des Fachschaftsrates statt. Die §§ 4 bis 12 finden dabei keine Anwendung. Das angewandte Verfahren wird in der Geschäftsordnung des Fachschaftsrates IT-Systems Engineering geregelt. Die Fachschaft ist über das gewählte Mitglied zu benachrichtigen.
+(4) Die Wahl des durch den Fachschaftsrat zu wählenden studentischen Mitglieds in der Studienkommission findet während der konstituierenden Sitzung des Fachschaftsrates statt. Die §§ 6 bis 12 finden dabei keine Anwendung. Das angewandte Verfahren wird in der Geschäftsordnung des Fachschaftsrates IT-Systems Engineering geregelt. Die Fachschaft ist über das gewählte Mitglied zu benachrichtigen.
 
 (5) Als Zeitraum der Wahlen ist die Zeit zwischen Einberufung des Wahlausschusses und Ablauf der Anfechtungsfrist zu verstehen.
 
@@ -42,7 +42,7 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 
 (1) Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht für den Fachschaftsrat.
 
-(2) Für die Studienkommission und den Prüfungsausschuss besitzen nur Studierende des Bachelor- oder Masterstudiengangs aktives und passives Wahlrecht.
+(2) Für die Studienkommission und den Prüfungsausschuss besitzen nur Studierende des Bachelor- oder Masterstudiengangs aktives und passives Wahlrecht. Dies gilt auch für Wahlen, die innerhalb des Fachschaftsrates durchgeführt werden.
 
 
 ## § 6 Wahlausschuss
