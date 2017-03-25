@@ -4,12 +4,12 @@ Diese Satzung ist am 14.04.2016 durch Beschluss der Vollversammlung in Kraft get
 
 
 
-##§ 1 Geltungsbereich
+## § 1 Geltungsbereich
 
 Alle Studierenden der Universität Potsdam im Studiengang IT-Systems Engineering sowie alle Promovierenden des Hasso-Plattner-Institutes sind Mitglieder der Fachschaft IT-Systems Engineering.
 
 
-##§ 2 Organe
+## § 2 Organe
 
 Die Organe der Fachschaft sind:
 
@@ -18,7 +18,7 @@ Die Organe der Fachschaft sind:
 3. der Wahlausschuss.
 
 
-##§ 3 Vollversammlung
+## § 3 Vollversammlung
 
 (1) Die Vollversammlung der Fachschaft ist das oberste beschlussfassende Organ der Fachschaft. In der Vollversammlung haben alle Mitglieder der Fachschaft Sitz und Stimme.
 
@@ -31,7 +31,7 @@ Die Organe der Fachschaft sind:
 (5) Vollversammlungen dürfen nur während der Vorlesungszeit einberufen werden.
 
 
-##§ 4 Fachschaftsrat
+## § 4 Fachschaftsrat
 
 (1) Der Fachschaftsrat ist beschlussfähiges und ausführendes Organ der Fachschaft. Er ist an die Satzung und an die Beschlüsse der Vollversammlung gebunden.
 
@@ -44,7 +44,7 @@ Die Organe der Fachschaft sind:
 (5) Der Fachschaftsrat gibt sich eine Geschäftsordnung.
 
 
-##§ 4a Aufgaben
+## § 4a Aufgaben
 
 Zu den Aufgaben des Fachschaftsrates gehören insbesondere:
 
@@ -54,7 +54,7 @@ Zu den Aufgaben des Fachschaftsrates gehören insbesondere:
 4. Verwaltung der Finanzen der Fachschaft
 
 
-##§ 4b Sitzungen
+## § 4b Sitzungen
 
 (1) Der Fachschaftsrat soll während der Vorlesungszeit jede Woche zusammentreten. Der Termin der turnusmäßigen Sitzungen ist durch eine E-Mail an die Fachschaft bekanntzugeben.
 
@@ -67,7 +67,7 @@ Zu den Aufgaben des Fachschaftsrates gehören insbesondere:
 (5) Näheres regelt die Geschäftsordnung des Fachschaftsrates.
 
 
-##§ 5 Wahlausschuss
+## § 5 Wahlausschuss
 (1) Dem Wahlausschuss obliegt die ordnungsgemäße Vorbereitung und Durchführung der Wahlen der Fachschaft.
 
 (2) Der Wahlausschuss wird durch den Fachschaftsrat aus der Mitte der Fachschaft gebildet.
@@ -75,13 +75,13 @@ Zu den Aufgaben des Fachschaftsrates gehören insbesondere:
 (3) Näheres regelt die Wahlordnung der Fachschaft IT-Systems Engineering.
 
 
-##§ 6 Finanzen
+## § 6 Finanzen
 
 (1) Über die Verwendung der Mittel für die Fachschaft aus dem Haushaltsplan der Studierendenschaft muss der Fachschaftsrat zu Beginn des Haushaltsjahres einen Haushaltsplan beschließen.
 
 (2) Über die Verwendung der Mittel ist Nachweis zu führen.
 
 
-##§ 7 Satzungsänderungen
+## § 7 Satzungsänderungen
 
 Die Änderung der Satzung kann nur erfolgen, wenn zwei Drittel der bei einer Vollversammlung stimmberechtigten Anwesenden dem Antrag zustimmen.

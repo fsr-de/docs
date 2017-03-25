@@ -4,12 +4,12 @@ Diese Geschäftsordnung wurde am 05.12.2016 vom Fachschaftsrat beschlossen.
 
 
 
-##§ 1 Geltungsbereich
+## § 1 Geltungsbereich
 
 Die Geschäftsordnung gilt für den Fachschaftsrat IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam.
 
 
-##§ 2 Personenwahlen
+## § 2 Personenwahlen
 
 (1) Die folgenden Regelungen finden für alle Personenwahlen des Fachschaftsrates Anwendung. Dies schließt die Wahlen auf der konstituierenden Sitzung und alle eventuellen Nachwahlen ein.
 
@@ -22,7 +22,7 @@ Die Geschäftsordnung gilt für den Fachschaftsrat IT-Systems Engineering am Has
 (5) Für ein Amt gewählt ist, wer die absolute Mehrheit an Stimmen erhält. Erhält keine Person die absolute Mehrheit, erfolgen weitere Wahlgänge. Ist nach drei Wahlgängen für einen Stellvertreterposten keine Person gewählt, wird der Posten nicht besetzt. Ist bei einer anderen Wahl nach drei Wahlgängen keine Person gewählt, kann der Fachschaftsrat mit einfacher Mehrheit die Vertagung der Wahl um höchstens sieben Tage beschließen. Anderenfalls wird die Wahl um jeweils einen Wahlgang verlängert, bis eine Person mit absoluter Mehrheit gewählt oder die Wahl vertagt wurde.
 
 
-##§ 3 Konstituierung und Ämter
+## § 3 Konstituierung und Ämter
 
 (1) Der Fachschaftsrat tritt spätestens eine Woche nach der Bekanntgabe der Wahlergebnisse auf Einladung des Wahlausschusses zusammen.
 
@@ -35,7 +35,7 @@ Die Geschäftsordnung gilt für den Fachschaftsrat IT-Systems Engineering am Has
 (3) Die Wahlen auf der konstituierenden Sitzung finden gemäß § 2 statt und werden vom Wahlausschuss geleitet. Nach der Wahl übernimmt der Vorsitzende die Sitzungsleitung.
 
 
-##§ 4 Aufgabenverteilung
+## § 4 Aufgabenverteilung
 
 (1) Der Vorsitzende des Fachschaftsrates ist verantwortlich für die Sitzungsleitung gemäß § 6.
 
@@ -48,7 +48,7 @@ Die Geschäftsordnung gilt für den Fachschaftsrat IT-Systems Engineering am Has
 (5) Alle weiteren Kompetenzbereiche können intern durch Beschluss festgelegt werden.
 
 
-##§ 5 Anwesenheit
+## § 5 Anwesenheit
 
 Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzungen wird unterschieden:
 
@@ -56,7 +56,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 2. Anwesenheit: Alle Mitglieder des Fachschaftsrates, die während der Sitzung persönlich anwesend sind oder per Telefon oder anderweitiger Einrichtung zur Kommunikation, insbesondere Internet- oder Videotelefonie, teilnehmen, gelten als anwesend.
 
 
-##§ 6 Sitzungsleitung
+## § 6 Sitzungsleitung
 
 (1) Während jeder Sitzung muss ein persönlich anwesendes Mitglied die Sitzungsleitung innehaben.
 
@@ -65,7 +65,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 (3) Die Sitzungsleitung wird in der Regel vom Vorsitzenden oder dem stellvertretenden Vorsitzenden wahrgenommen. Es steht ihnen frei, die Sitzungsleitung für die betreffende Sitzung einstimmig auf ein anderes Mitglied zu übertragen. Diese Entscheidung erhält per Mitteilung an den gesamten Fachschaftsrat Gültigkeit.
 
 
-##§ 7 Beschlüsse
+## § 7 Beschlüsse
 
 (1) Der Fachschaftsrat ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist, wobei mindestens zwei Mitglieder persönlich anwesend sein müssen.
 
@@ -78,7 +78,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 (5) In dringenden Fällen kann der Fachschaftsrat einen Beschluss im Umlaufverfahren fassen. Dazu stellt ein Mitglied des Fachschaftsrates einen ausformulierten Beschlussantrag. Alle Mitglieder des Fachschaftsrates können eine Stimme zum Beschlussantrag abgeben. Es zählt die zuerst abgegebene Stimme. Ein Umlaufbeschluss ist angenommen, sobald eine Zwei-Drittel-Mehrheit der Mitglieder des Fachschaftsrates dafür gestimmt hat. Der Beschluss ist im Protokoll der nächsten Sitzung festzuhalten.
 
 
-##§ 8 Sitzungsprotokolle
+## § 8 Sitzungsprotokolle
 
 (1) Das Protokoll jeder Sitzung muss mindestens die folgenden Punkte enthalten:
 
@@ -97,7 +97,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 (5) Sitzungsprotokolle sind mindestens 3 Jahre aufzubewahren.
 
 
-##§ 9 Rücktritt, Nachrücker
+## § 9 Rücktritt, Nachrücker
 
 (1) Jedes Mitglied kann aus triftigen Gründen vom Fachschaftsrat zurücktreten. Der Rücktritt muss zusammen mit einer Begründung den restlichen Mitgliedern in Schriftform vorgelegt werden.
 
@@ -121,7 +121,7 @@ Findet sich für keine der Alternativen eine Zwei-Drittel-Mehrheit, so tritt Alt
 (8) Treten Mitglieder des Fachschaftsrates zurück, die bis zu diesem Zeitpunkt ein gewähltes Amt innehatten, dann muss dieses Amt während der nächsten Sitzung neu vergeben werden.
 
 
-##§ 10 Änderung der Geschäftsordnung
+## § 10 Änderung der Geschäftsordnung
 
 (1) Der Fachschaftsrat kann Änderungen dieser Geschäftsordnung mit einer Zwei-Drittel-Mehrheit aller Mitglieder beschließen.
 
