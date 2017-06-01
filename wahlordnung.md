@@ -64,7 +64,7 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 
 (1) Der Wahlausschuss schreibt die Wahlen zum Fachschaftsrat sowie für zwei studentische Mitglieder in der Studienkommission und ein studentisches Mitglied im Prüfungsausschuss spätestens drei Wochen vor der Wahl aus. Die Wahlbekanntmachung ist durch E-Mail an die Fachschaft zu veröffentlichen.
 
-(2) Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und weitere Modalitäten der Wahlen. Sie sollte die in § 11 der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 8. Mai 2012 aufgeführten Hinweise beinhalten und muss auf die in § 9 (5) festgelegte Handhabung von Personen gleichen Namens hinweisen. 
+(2) Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und weitere Modalitäten der Wahlen. Sie sollte die in § 11 der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 8. Mai 2012 aufgeführten Hinweise beinhalten.
 
 
 ## § 8 Wahlvorschläge
@@ -95,7 +95,7 @@ Diese Wahlordnung gilt für alle Wahlen zum Fachschaftsrat IT-Systems Engineerin
 
 (4) Wenn eine Person sowohl per E-Mail als auch per Wahlzettel abgestimmt hat, verfällt die Stimmabgabe aus der E-Mail.
 
-(5) Bei mehreren Personen gleichen Namens wird für die Stimmabgabe der in der HPI-Domäne geführte Name mit nachgestellter Zahl verwendet. Der Wahlausschuss weist in der Wahlausschreibung und zur Eröffnung der Wahl darauf hin.
+(5) Bei mehreren Personen gleichen Namens wird für die Stimmabgabe der in der HPI-Domäne geführte Name mit nachgestellter Zahl verwendet. Der Wahlausschuss weist zur Eröffnung der Wahl darauf hin.
 
 
 ## § 10 Ergebnisfeststellung
