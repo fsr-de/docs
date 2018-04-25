@@ -1,6 +1,6 @@
 # Satzung der Fachschaft IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Satzung ist am 14.04.2016 durch Beschluss der Vollversammlung in Kraft getreten.
+Diese Satzung ist am 03.05.2018 durch Beschluss der Vollversammlung in Kraft getreten.
 
 
 
@@ -72,8 +72,13 @@ Zu den Aufgaben des Fachschaftsrates gehören insbesondere:
 
 (2) Der Wahlausschuss wird durch den Fachschaftsrat aus der Mitte der Fachschaft gebildet.
 
-(3) Näheres regelt die Wahlordnung der Fachschaft IT-Systems Engineering.
+(3) Näheres regeln die Wahlordnung und die Empfehlungswahlordnung der Fachschaft IT-Systems Engineering.
 
+## § 5b Empfehlungswahlen zur Besetzung von Fakultätsgremien
+
+(1) Für Studentische Mitglieder in den Gremien der Digital Engineering Fakultät, die vom Fakultätsrat benannt werden, kann die Fachschaft Empfehlungen aussprechen.
+
+(2) Diese Empfehlungen sind mit Hilfe von Wahlen gemäß der Empfehlungswahlordnung der Fachschaft IT-Systems Engineering zu ermitteln.
 
 ## § 6 Finanzen
 
