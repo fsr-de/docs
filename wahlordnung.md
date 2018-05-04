@@ -1,6 +1,6 @@
 # Wahlordnung der Fachschaft IT-Systems Engineering an der Universität Potsdam
 
-Diese Wahlordnung ist am 04.01.2018 durch Beschluss des Fachschaftsrates in Kraft getreten.
+Diese Wahlordnung ist am 03.05.2018 durch Beschluss der Vollversammlung in Kraft getreten.
 
 
 
@@ -126,6 +126,8 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 (1) Der Fachschaftsrat kann Veränderungen dieser Wahlordnung vornehmen. Ein entsprechender Beschluss bedarf einer Zwei-Drittel-Mehrheit aller Mitglieder des Fachschaftsrates.
 
-(2) Der Fachschaftsrat muss die Fachschaft innerhalb von drei Tagen nach dem Beschluss per E-Mail über die Änderung informieren.
+(2) Eine Änderung der Wahlordnung kann nur erfolgen, wenn die Fachschaft mindestens 14 Tage zuvor über die vorgesehene Änderung im Wortlaut informiert wurde und eine geeignete Möglichkeit zur Diskussion erhält.
 
-(3) Während des Zeitraumes einer Wahl gilt die Wahlordnung in der zum Beginn des Zeitraumes geltenden Fassung.
+(3) Der Fachschaftsrat muss die Fachschaft innerhalb von drei Tagen nach dem Beschluss per E-Mail über die Änderung informieren.
+
+(4) Während des Zeitraumes einer Wahl gilt die Wahlordnung in der zum Beginn des Zeitraumes geltenden Fassung.
