@@ -39,7 +39,7 @@ Die Organe der Fachschaft sind:
 
 (3) Dem Fachschaftsrat gehören in der Regel acht, mindestens jedoch sechs Mitglieder an. Der Fachschaftsrat sollte aus Bachelor- und Masterstudierenden möglichst vieler unterschiedlicher Semester sowie Promovierenden bestehen.
 
-(4) Der Fachschaftsrat oder einzelne Mitglieder können jederzeit durch Beschluss der Vollversammlung abgewählt werden. Dadurch treten die Regelungen entsprechend §4g in Kraft.
+(4) Der Fachschaftsrat oder einzelne Mitglieder können jederzeit durch Beschluss der Vollversammlung abgewählt werden. Näheres regelt die Geschäftsordnung.
 
 (5) Der Fachschaftsrat gibt sich eine Geschäftsordnung.
 
