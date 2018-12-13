@@ -1,4 +1,4 @@
-# Wahlordnung der Fachschaft IT-Systems Engineering an der Universität Potsdam
+# Wahlordnung der Fachschaft Digital Engineering an der Universität Potsdam
 
 Diese Wahlordnung ist am 03.05.2018 durch Beschluss der Vollversammlung in Kraft getreten.
 
@@ -6,12 +6,12 @@ Diese Wahlordnung ist am 03.05.2018 durch Beschluss der Vollversammlung in Kraft
 
 ## § 1 Geltungsbereich
 
-Diese Wahlordnung gilt für die Wahl des Fachschaftsrates IT-Systems Engineering an der Universität Potsdam.
+Diese Wahlordnung gilt für die Wahl des Fachschaftsrates Digital Engineering an der Universität Potsdam.
 
 
 ## § 2 Mitglieder
 
-In den Fachschaftsrat werden gemäß Satzung der Fachschaft IT-Systems Engineering acht Mitglieder gewählt.
+In den Fachschaftsrat werden gemäß Satzung der Fachschaft Digital Engineering acht Mitglieder gewählt.
 
 
 ## § 3 Amtszeit und Wahltermin
@@ -112,7 +112,7 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 (2) Ein Ausscheiden aus der Fachschaft bewirkt zwingend einen sofortigen Rücktritt der Person aus dem Fachschaftsrat. Dies ist den anderen Mitgliedern des Fachschaftsrates unverzüglich mitzuteilen.
 
-(3) Rücktritte werden gemäß der Geschäftsordnung des Fachschaftsrates IT-Systems Engineering gehandhabt. Der Fachschaftsrat verantwortet die Nachrückverfahren und nimmt die Annahme der nachrückenden Personen entgegen. Die Fachschaft ist über alle Mitgliedsänderungen zu benachrichtigen.
+(3) Rücktritte werden gemäß der Geschäftsordnung des Fachschaftsrates Digital Engineering gehandhabt. Der Fachschaftsrat verantwortet die Nachrückverfahren und nimmt die Annahme der nachrückenden Personen entgegen. Die Fachschaft ist über alle Mitgliedsänderungen zu benachrichtigen.
 
 
 ## § 14 Wahlordnung der Universität Potsdam

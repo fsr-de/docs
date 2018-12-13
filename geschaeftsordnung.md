@@ -1,4 +1,4 @@
-# Geschäftsordnung des Fachschaftsrates IT-Systems Engineering
+# Geschäftsordnung des Fachschaftsrates Digital Engineering
 
 Diese Geschäftsordnung wurde am 05.12.2016 vom Fachschaftsrat beschlossen.
 
@@ -6,7 +6,7 @@ Diese Geschäftsordnung wurde am 05.12.2016 vom Fachschaftsrat beschlossen.
 
 ## § 1 Geltungsbereich
 
-Die Geschäftsordnung gilt für den Fachschaftsrat IT-Systems Engineering am Hasso-Plattner-Institut an der Universität Potsdam.
+Die Geschäftsordnung gilt für den Fachschaftsrat Digital Engineering am Hasso-Plattner-Institut an der Universität Potsdam.
 
 
 ## § 2 Personenwahlen
