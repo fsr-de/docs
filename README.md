@@ -1,19 +1,27 @@
-# Dokumente der Fachschaft Digital Engineering am Hasso-Plattner-Institut an der Universität Potsdam
+## Dokumente der Fachschaft Digital Engineering an der Universität Potsdam
+***Documents of the Digital Engineering Student Body at the University of Potsdam***
 
-Dieses Git-Repository enthält die Satzung und die Wahlordnung der Fachschaft Digital Engineering sowie die Geschäftsordnung des Fachschaftsrates Digital Engineering im Markdown-Format. Hier lassen sich bisherige Versionen ansehen und Änderungen nachverfolgen.
+- Fachschaft Digital Engineering / *Digital Engineering Student Body*
+    - [Satzung](https://github.com/fsr-de/docs/blob/master/satzung.md) / [*Statutes*](https://github.com/fsr-de/docs/blob/master/statutes.md)
+    - [Wahlordnung](https://github.com/fsr-de/docs/blob/master/wahlordnung.md) / [*Electoral Code*](https://github.com/fsr-de/docs/blob/master/electoral_code.md)
+- Fachschaftsrat Digital Engineering / *Digital Engineering Student Representative Group*
+    - [Geschäftsordnung](https://github.com/fsr-de/docs/blob/master/geschaeftsordnung.md) / [*Rules of Procedure*](https://github.com/fsr-de/docs/blob/master/rules_of_procedure.md)
+
+-----
+
+**Änderungen**
+
+Pull Requests für redaktionelle Änderungen und Korrekturen sind herzlich willkommen. Wenn du inhaltliche Änderungen machen möchtest, reiche sie bitte beim Fachschaftsrat ein.
+
+- Redaktionelle Änderungen sind mit `[nicht inhaltlich]` in der Commit Message zu kennzeichnen.
+- Für Zeilenenden ist der Unix-Style zu nutzen.
+- Alle Dateien sind UTF-8 encoded.
 
 
-## Pull requests
+***Changes***
 
-... sind sehr herzlich willkommen.
-Bevor eine Änderung in der Satzung erscheint, muss sie jedoch von der Vollversammlung der Fachschaft angenommen werden.
-Änderungen an der Wahlordnung und der FSR-Geschäftsordnung bedürfen eines Beschlusses des Fachschaftsrates.
+*Pull requests for editorial changes and corrections are welcome. If you want to make substantive changes, please send them to the Student Representative Group.*
 
-
-### Richtlinien
-
-Damit die Änderungen an den Dateien minimiert werden und leicht verfolgbar sind, gibt es folgende Vorgaben:
-
-* Änderungen, die keinen Beschluss erfordern, sind in der Commit message mit `[nicht inhaltlich]` zu kennzeichnen
-* Als Line endings ist der Unix style zu nutzen
-* Alle Dateien sind UTF-8 encoded
+- *Editorial changes must be marked with `[nicht inhaltlich]` in the commit message.*
+- *Use Unix style line endings.*
+- *All files must be UTF-8 encoded.*
