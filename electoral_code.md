@@ -2,7 +2,7 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-This electoral code came into effect by resolution of all members at a general meeting on May 3, 2018.
+This electoral code came into effect by resolution of the Student Representative Group on Mar. 20, 2019.
 
 
 
@@ -47,7 +47,7 @@ Every member of the student body has the right to vote and to stand as a candida
 
 (4) The members of the election committee cannot run for election.
 
-(5) The election committee may call on additional people to assist in an election and vote counting. These people do not need to belong to the student body.
+(5) The election committee may call on additional people to assist in an election and vote counting. These people do not need to belong to the student body but must not have run for election.
 
 (6) The Student Representative Group must provide the election committee with all materials necessary to prepare and conduct the election.
 
@@ -56,7 +56,7 @@ Every member of the student body has the right to vote and to stand as a candida
 
 (1) The election committee shall announce the election to the Student Representative Group no later than three weeks before the election is to take place. The notice of election is to be made to the student body by email.
 
-(2) The notice of election provides information about the time, place and other modalities of the election. It should contain the information listed in § 11 of the Framework Regulations for Elections of the Student Body of the University of Potsdam, dated May 8, 2012.
+(2) The notice of election provides information about the time, place and other modalities of the election. It should contain the information listed in § 12 of the Framework Regulations for Elections of the Student Body of the University of Potsdam, dated February 6, 2018.
 
 
 ## § 8 Electoral Proposals
@@ -96,14 +96,14 @@ Every member of the student body has the right to vote and to stand as a candida
 
 ## § 11 Announcement of Election Result
 
-(1) The election committee shall announce the results of the election to the student body via email, at the latest on the first day of classes after acceptance. The election committee will also notify all elected members.
+(1) The election committee shall announce the results of the election to the student body via email, at the latest on the first day of classes after acceptance.
 
 (2) The election committee shall invite those elected into the Student Representative Group to a constituent meeting one week, at the latest, after the results of the election have been made public.
 
 
 ## § 12 Appeals Period
 
-(1) The election can be appealed within one week after the publication of the results. An appeal stating the reason(s) for the appeal must be made to the election committee. Only the reasons listed in § 20 (2) of the Framework Regulations for Elections of the Student Body of the University of Potsdam, dated May 8, 2012 will be considered.
+(1) The election can be appealed within one week after the publication of the results. An appeal stating the reason(s) for the appeal must be made to the election committee. Only the reasons listed in § 21 (2) of the Framework Regulations for Elections of the Student Body of the University of Potsdam, dated February 6, 2018 will be considered.
 
 (2) The admissibility and consequences of the appeal is decided by the election committee.
 
