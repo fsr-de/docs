@@ -1,6 +1,6 @@
 # Wahlordnung der Fachschaft Digital Engineering an der Universität Potsdam
 
-Diese Wahlordnung ist am 03.05.2018 durch Beschluss der Vollversammlung in Kraft getreten.
+Diese Wahlordnung ist am XX.XX.XXXX durch Beschluss des Fachschaftsrates in Kraft getreten.
 
 
 
@@ -45,7 +45,7 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 (4) Mitglieder des Wahlausschusses können nicht für die Wahlen kandidieren.
 
-(5) Der Wahlausschuss kann weitere Personen zur Unterstützung während der Wahlhandlung und Auszählung heranziehen. Diese müssen nicht der Fachschaft angehören.
+(5) Der Wahlausschuss kann weitere Personen zur Unterstützung während der Wahlhandlung und Auszählung heranziehen. Diese müssen nicht der Fachschaft angehören, dürfen aber ebenfalls nicht selbst kandidiert haben.
 
 (6) Der Fachschaftsrat muss dem Wahlausschuss alle zur Vorbereitung und Durchführung der Wahlen notwendigen Materialien zur Verfügung stellen.
 
@@ -54,7 +54,7 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 (1) Der Wahlausschuss schreibt die Wahlen zum Fachschaftsrat spätestens drei Wochen vor der Wahl aus. Die Wahlbekanntmachung ist durch E-Mail an die Fachschaft zu veröffentlichen.
 
-(2) Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und weitere Modalitäten der Wahlen. Sie sollte die in § 11 der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 8. Mai 2012 aufgeführten Hinweise beinhalten.
+(2) Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und weitere Modalitäten der Wahlen. Sie sollte die in § 12 der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 6. Februar 2018 aufgeführten Hinweise beinhalten.
 
 
 ## § 8 Wahlvorschläge
@@ -94,14 +94,14 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 ## § 11 Bekanntgabe des Wahlergebnisses
 
-(1) Der Wahlausschuss gibt die Ergebnisse der Wahl spätestens einen Vorlesungstag nach der Annahme aller Mitglieder per E-Mail an die Fachschaft bekannt. Er benachrichtigt ferner die gewählten Mitglieder des jeweiligen Gremiums.
+(1) Der Wahlausschuss gibt die Ergebnisse der Wahl spätestens einen Vorlesungstag nach der Annahme aller Mitglieder per E-Mail an die Fachschaft bekannt.
 
 (2) Der Wahlausschuss lädt die in den Fachschaftsrat gewählten Mitglieder zu einem spätestens eine Woche nach der Bekanntgabe der Wahlergebnisse liegenden Termin zur konstituierenden Sitzung ein.
 
 
 ## § 12 Anfechtungsfrist
 
-(1) Die Wahl kann innerhalb einer Woche nach Veröffentlichung des Wahlergebnisses angefochten werden. Eine Anfechtung erfolgt schriftlich unter Angabe der Gründe beim Wahlausschuss. Es kommen nur die in § 20 (2) der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 8. Mai 2012 aufgeführten Gründe in Betracht.
+(1) Die Wahl kann innerhalb einer Woche nach Veröffentlichung des Wahlergebnisses angefochten werden. Eine Anfechtung erfolgt schriftlich unter Angabe der Gründe beim Wahlausschuss. Es kommen nur die in § 21 (2) der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 6. Februar 2018 aufgeführten Gründe in Betracht.
 
 (2) Über Zulässigkeit und Folgen der Anfechtung entscheidet der Wahlausschuss.
 
