@@ -2,13 +2,13 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These Rules of Procedure were established by the Student Representative Group on Dec. 5, 2016.
+These Rules of Procedure were established by the Student Representative Group on Mar. 13, 2019.
 
 
 
 ## § 1 Scope
 
-These Rules of Procedure apply to the Digital Engineering Student Representative Group (Fachschaftsrat Digital Engineering) at Hasso Plattner Institute at the University of Potsdam.
+These Rules of Procedure apply to the Digital Engineering Student Representative Group (Fachschaftsrat Digital Engineering) at the University of Potsdam.
 
 
 ## § 2 Election of Individuals
@@ -17,7 +17,7 @@ These Rules of Procedure apply to the Digital Engineering Student Representative
 
 (2) The election of individuals is carried out separately for each office and for each deputy post.
 
-(3) The elections are carried out publicly, unless a member of the Student Representative Group calls for a secret election.
+(3) The elections are carried out in secret, unless all members of the Student Representative Group call for a public election.
 
 (4) Each member of the Student Representative Group has a vote that can be given to an individual or can count as an abstention.
 
@@ -28,7 +28,7 @@ These Rules of Procedure apply to the Digital Engineering Student Representative
 
 (1) At the invitation of the election committee, the Student Representative Group shall meet no later than one week after the announcement of the election results.
 
-(2) At the constituent meeting, the Student Representative Group elects from among its members:
+(2) At the constituent meeting, the Student Representative Group elects from among its members
 
 1.	a chairperson and, when appropriate, a deputy chairperson
 2.	a financial officer and, when appropriate, a deputy financial officer
@@ -39,11 +39,11 @@ These Rules of Procedure apply to the Digital Engineering Student Representative
 
 ## § 4 Allocation of Responsibilities
 
-(1) The chairperson of the Student Representative Group is responsible for chairing the meetings in accordance with § 6.
+(1) The chairpersons of the Student Representative Group are responsible for chairing the meetings in accordance with § 6.
 
-(2) The financial officer handles the finances of the student body based on the resolutions of the Student Representative Group. The financial officer and, if applicable, the elected deputy, are declared as separately authorized officers. The financial officer is expected to attend the finance workshop of the General Student Committee (AStA) at the University of Potsdam.
+(2) The financial officers handle the finances of the student body based on the resolutions of the Student Representative Group. They are declared as separately authorized officers. The financial officers are expected to attend the finance workshop of the General Student Committee (AStA) at the University of Potsdam.
 
-(3) At the beginning of each meeting, the chairing person shall appoint a minute-taker, who records the minutes of the meeting including all decisions made and points discussed. The minute-taker must be physically present at the meeting. Further details are outlined in § 8.
+(3) At the beginning of each meeting, the chairing person shall appoint a minute-taking person, who records the minutes of the meeting including all decisions made and points discussed. The minute-taking person must be physically present at the meeting. Further details are outlined in § 8.
 
 (4) The offices defined in § 3 (2) can each be newly reassigned by the Student Representative Group in case of a constructive vote of no confidence or following the resignation of an office holder, respectively. If the office of a deputy becomes vacant, a new election will only take place by a resolution of the Student Representative Group.
 
@@ -58,16 +58,24 @@ A distinction is made regarding the presence of members of the Student Represent
 2.	Present: All members of the Student Representative Group who are physically present during the meeting or who take part via telephone or by other means of communication, in particular via internet or video telephony, are deemed to be present.
 
 
-## § 6 Chairing the Meeting
+## § 6 Meetings
+
+(1) During the instructional period of the semester a meeting shall take place once every week as stated in the Statutes of the Digital Engineering Student Body. In the time between instructional periods a meeting shall take place at least once every three weeks.
+
+(2) The chairpersons shall invite all interested members of the student body to the meetings via a publicly available email distribution list.
+
+
+
+## § 7 Chairing the Meeting
 
 (1) During every meeting a physically present member is required to chair the meeting.
 
-(2) The chairing person is responsible for convening the meeting, managing the agenda, and determining the minute-taking duties.
+(2) The chairing person is responsible for determining the minute-taking duties, managing the agenda and an orderly course of the meeting.
 
-(3) Generally, the meeting shall be led by the chairperson or the deputy chairperson. They are however free, by unanimous consent, to transfer the leadership of the meeting in question to another member. This decision is considered valid upon communication to the entire Student Representative Group.
+(3) Generally, the meetings shall be chaired by the chairpersons. They are however free, by unanimous consent, to transfer the task of chairing the meeting in question to another member. This decision is considered valid upon communication to the entire Student Representative Group.
 
 
-## § 7 Resolutions
+## § 8 Resolutions
 
 (1) The Student Representative Group is authorized to pass a resolution if at least half of its members are present, with at least two members being physically present.
 
@@ -77,29 +85,42 @@ A distinction is made regarding the presence of members of the Student Represent
 
 (4) The resolutions of the Student Representative Group are recorded in the minutes.
 
-(5) In urgent cases, the Student Representative Group can decide by way of a circulation voting procedure, whereby the resolution is circulated to all members. For this purpose, a member of the Student Representative Group makes a draft resolution. All members of the Student Representative Group can cast one vote for the resolution proposal. The first vote cast is valid.  The circular resolution is adopted as soon as it receives a two-thirds majority vote from the Student Representative Group members. The decision must be recorded in the minutes of the next meeting.
+
+## § 9 Circulation Resolutions
+
+(1) In urgent cases, the Student Representative Group can decide by way of a circulation resolution procedure if a simple majority is required. For this purpose, a member of the Student Representative Group makes a draft resolution.
+
+(2) Resolutions that require a two-thirds majority cannot be passed by way of a circulation resolution procedure.
+
+(3) All members of the Student Representative Group can cast one vote for the resolution proposal. The first vote cast is valid. The time for voting shall be limited.
+
+(4) The circulation resolution is accepted as soon as it cannot anymore be rejected. The circulation resolution is rejected as soon as it cannot anymore be accepted. If the circulation resolution is not accepted at the end of the voting time limit, it is considered rejected.
+
+(5) The decision of the circulation resolution must be recorded in the minutes of the next meeting.
+
+(6) For circulation resolutions involving budget provided by the Student Body of the University of Potsdam the regulations in § 6a of the Statutes of the Student Body of the University of Potsdam apply in addition.
 
 
-## § 8 Minutes of the Meeting
+## § 10 Minutes of the Meeting
 
 (1) The minutes of each meeting must contain at least the following items:
 
 1.	Date
 2.	Members in attendance
 3.	Person chairing the meeting
-4.	Minute-taker
+4.	Person taking the minutes
 5.	Description of motions and resolutions, with the exact results of voting
 
 (2) The minutes of the meeting will be made available to all members of the Student Representative Group immediately after the meeting.
 
-(3) If within two working days after the date of the meeting, the minute-taker has not received any requests for modification, the minutes shall be deemed accepted.
+(3) Requests for modification must be made within two working days after the date of the meeting to the person taking the minutes and must be communicated to all members of the Student Representative Group. If no consensus about necessary changes is reached, the chairpersons decide. After the deadline the minutes shall be deemed accepted.
 
-(4) During the instructional period of the semester accepted minutes will be published by the chairing person after three days of classes at the latest. Otherwise, the minutes will be published by the chairing person after seven days at the latest.
+(4) During the instructional period of the semester accepted minutes will be published by the chairpersons after three days of classes at the latest. Otherwise, the minutes will be published by the chairpersons after seven days at the latest.
 
 (5) The minutes of the meetings must be retained for at least 3 years.
 
 
-## § 9 Resignation, Successors
+## § 11 Resignation, Successors
 
 (1) Any member of the student council can resign for good reason. The resignation and reason must be presented in writing to the rest of the members.
 
@@ -118,12 +139,12 @@ If neither of the alternatives receives a two-thirds majority vote, Alternative 
 
 (6) A member of the Student Representative Group who has resigned, remains in office provisionally until the successor is declared as an official member of the Student Representative Group by accepting the post, or the Student Representative Group decides to continue its work with a reduced number of members based on (4) 2. The discharge of resigned and succeeding members shall take place at the next ordinary general meeting.
 
-(7) A succeeding member shall remain in office until the next regular Student Representative Group election.
+(7) The term in office of succeeding members ends at the same time as the term in office of the other members of the Student Representative Group.
 
 (8) In the event that a member of the Student Representative Group who has held an elected office up until this date resigns, this office must be reassigned during the next meeting.
 
 
-## § 10 Changes to the Rules of Procedure
+## § 12 Changes to the Rules of Procedure
 
 (1) The Student Representative Group may adopt changes to these Rules of Procedure with a two-thirds majority vote by all members.
 
