@@ -70,7 +70,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 (2) Die Sitzungsleitung ist verantwortlich für die Festlegung der Protokollführung, Verwaltung der Tagesordnung und einen geordneten Ablauf der Sitzung.
 
-(3) Die Sitzungsleitung wird in der Regel durch den Vorsitz wahrgenommen. Es steht ihnen frei, die Sitzungsleitung für die betreffende Sitzung einstimmig auf ein anderes Mitglied zu übertragen. Diese Entscheidung erhält per Mitteilung an den gesamten Fachschaftsrat Gültigkeit.
+(3) Die Sitzungsleitung wird in der Regel durch den Vorsitz wahrgenommen. Es steht ihm frei, die Sitzungsleitung für die betreffende Sitzung einstimmig auf ein anderes Mitglied zu übertragen. Diese Entscheidung erhält per Mitteilung an den gesamten Fachschaftsrat Gültigkeit.
 
 
 ## § 8 Beschlüsse
