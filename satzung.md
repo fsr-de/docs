@@ -1,12 +1,12 @@
 # Satzung der Fachschaft Digital Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Satzung ist am 13.12.2018 durch Beschluss der Vollversammlung in Kraft getreten.
+Diese Satzung ist am 14.11.2019 durch Beschluss der Vollversammlung in Kraft getreten.
 
 
 
 ## § 1 Geltungsbereich
 
-Alle Studierenden der Universität Potsdam in den Studiengängen IT-Systems Engineering, Data Engineering und Digital Health sowie alle eingeschriebenen Promotionsstudierenden dieser Studiengänge sind Mitglieder der Fachschaft Digital Engineering.
+Alle Studierenden der Universität Potsdam in den Studiengängen IT-Systems Engineering, Data Engineering, Digital Health und Cyber Security sowie alle eingeschriebenen Promotionsstudierenden dieser Studiengänge sind Mitglieder der Fachschaft Digital Engineering.
 
 
 ## § 2 Organe

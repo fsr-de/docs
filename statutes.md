@@ -2,13 +2,13 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These statutes came into effect by resolution of all members at a general meeting on Dec. 13, 2018.
+These statutes came into effect by resolution of all members at a general meeting on Nov. 14, 2019.
 
 
 
 ## § 1 Scope
 
-Members of the Digital Engineering student body include all students of the University of Potsdam in the degree programs “IT Systems Engineering”, “Data Engineering”, and “Digital Health”, as well as PhD students enrolled in these programs.
+Members of the Digital Engineering student body include all students of the University of Potsdam in the degree programs “IT Systems Engineering”, “Data Engineering”, “Digital Health”, and “Cyber Security”, as well as PhD students enrolled in these programs.
 
 
 ## § 2 Organization
