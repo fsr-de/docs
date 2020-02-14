@@ -86,5 +86,5 @@ Zu den Aufgaben des Fachschaftsrates gehören insbesondere:
 
 Die Änderung der Satzung kann nur erfolgen, wenn
 
-* auf einer Vollversammlung wenigstens 20% der Mitglider der Fachschaft anwesend sind und
+* auf einer Vollversammlung wenigstens 20% der Mitglieder der Fachschaft anwesend sind und
 * wenigstens zwei Drittel der bei dieser Vollversammlung stimmberechtigten Anwesenden dem Antrag zustimmen.
