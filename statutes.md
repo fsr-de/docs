@@ -2,7 +2,7 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These statutes came into effect by resolution of all members at a general meeting on Nov. 14, 2019.
+These statutes came into effect by resolution of all members at a general meeting on xxx. xx, xxxx.
 
 
 
@@ -87,4 +87,7 @@ Among the particular tasks of the Student Representative Group are:
 
 ## § 7 Amendments
 
-Changes to the statutes can only be made if two-thirds of those present at a general meeting agree to the proposal.
+Changes to the statutes can only be made if
+
+* at least 20% of the student body's members are present at a general meeting and
+* two-thirds of those present at the general meeting agree to the proposal.
