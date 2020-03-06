@@ -6,7 +6,7 @@ Diese Satzung ist am 14.11.2019 durch Beschluss der Vollversammlung in Kraft get
 
 ## § 1 Geltungsbereich
 
-Alle Studierenden der Universität Potsdam in den Studiengängen IT-Systems Engineering, Data Engineering, Digital Health und Cyber Security sowie alle eingeschriebenen Promotionsstudierenden dieser Studiengänge sind Mitglieder der Fachschaft Digital Engineering.
+Alle Studierenden der Universität Potsdam in den Studiengängen IT-Systems Engineering, Data Engineering, Digital Health und Cyber Security sowie alle an der Digital Engineering Fakultät eingeschriebenen Promotionsstudierenden sind Mitglieder der Fachschaft Digital Engineering.
 
 
 ## § 2 Organe
@@ -20,15 +20,15 @@ Die Organe der Fachschaft sind:
 
 ## § 3 Vollversammlung
 
-(1) Die Vollversammlung der Fachschaft ist das oberste beschlussfassende Organ der Fachschaft. In der Vollversammlung haben alle Mitglieder der Fachschaft Sitz und Stimme.
+(1) Die Vollversammlung der Fachschaft ist das oberste beschlussfassende Organ der Fachschaft. In der Vollversammlung haben alle Mitglieder der Fachschaft Sitz und Stimme sowie ein Rede- und Antragsrecht.
 
 (2) In jedem Studienjahr soll eine ordentliche Vollversammlung stattfinden. Für die Durchführung ist der Fachschaftsrat verantwortlich.
 
 (3) Außerordentliche Vollversammlungen können durch den Fachschaftsrat oder durch mindestens 15 Mitglieder der Fachschaft einberufen werden. Verantwortlich für die Durchführung sind die einberufenden Personen.
 
-(4) Vollversammlungen müssen mindestens 14 Tage vorher per E-Mail an die Fachschaft angekündigt werden. Eine ordnungsgemäß angekündigte Vollversammlung ist beschlussfähig.
+(4) Ordentliche Vollversammlungen müssen mindestens 28 Tage vorher per E-Mail an die Fachschaft angekündigt werden. Außerordentliche Vollversammlungen müssen analog mindestens 14 Tage vorher angekündigt werden. Eine ordnungsgemäß angekündigte Vollversammlung ist beschlussfähig.
 
-(5) Vollversammlungen dürfen nur während der Vorlesungszeit einberufen werden.
+(5) Vollversammlungen dürfen nur während der Vorlesungszeit einberufen werden und müssen auf dem Gelände der Digital Engineering Fakultät stattfinden.
 
 
 ## § 4 Fachschaftsrat
@@ -84,4 +84,6 @@ Zu den Aufgaben des Fachschaftsrates gehören insbesondere:
 
 ## § 7 Satzungsänderungen
 
-Die Änderung der Satzung kann nur erfolgen, wenn zwei Drittel der bei einer Vollversammlung stimmberechtigten Anwesenden dem Antrag zustimmen.
+(1) Die Änderung der Satzung kann nur erfolgen, wenn zwei Drittel der bei einer ordentlichen Vollversammlung stimmberechtigten Anwesenden dem Antrag zustimmen.
+
+(2) Satzungsänderungen müssen mit der ersten Einladung zur Vollversammlung angekündigt werden.
