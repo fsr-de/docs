@@ -13,7 +13,7 @@ Die Geschäftsordnung gilt für die Vollversammlung der Fachschaft Digital Engin
 
 (2) Die Tagesordnung muss Teil der fristgerechten Einladung einer Vollversammlung sein.
 
-(3) Anderungsanträge zur Tagesordnung einer ordentlichen Vollversammlung können bis zu 14 Tage vor der Vollversammlung bei den Einladenden gestellt werden.
+(3) Änderungsanträge zur Tagesordnung einer ordentlichen Vollversammlung können bis zu 14 Tage vor der Vollversammlung bei den Einladenden gestellt werden.
 
 (4) 7 Tage vor einer ordentlichen Vollversammlung muss die finale Tagesordnung auf dem gleichen Weg wie die Einladung zur Vollversammlung bekanntgegeben werden.
 
@@ -53,7 +53,9 @@ Anträge können vor der Behandlung durch die antragstellende Person zurückgezo
 
 (2) Anträge zur Geschäftsordnung werden vor Änderungsanträgen behandelt.
 
-(3) Geschäftsordnungsanträge sind:
+(3) Angenommene Geschäftsordnungsanträge stehen über den Entscheidungen der Versammlungsleitung.
+
+(4) Geschäftsordnungsanträge sind:
   1. Antrag auf Vertagung eines Tagesordnungspunktes,
   2. Antrag auf den Schluss der Redeliste (falls vorhanden),
   3. Antrag auf den Schluss der Beratung und ggf. sofortige Abstimmung,
