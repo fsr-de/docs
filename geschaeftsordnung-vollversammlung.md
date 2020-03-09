@@ -45,7 +45,9 @@ Anträge können vor der Behandlung durch die antragstellende Person zurückgezo
 
 (2) Änderungsanträge werden vor den jeweiligen Anträgen behandelt.
 
-(3) Änderungsanträge können vor der Vollversammlung schriftlich bekanntgegeben und begründet werden.
+(3) Änderungsanträge können nur von der den ursprünglichen Antrag stellenden Person direkt angenommen werden. Geschieht dies nicht, stimmt die Vollversammlung über die Annahme ab.
+
+(4) Änderungsanträge können vor der Vollversammlung schriftlich bekanntgegeben und begründet werden.
 
 ## § 7 Anträge zur Geschäftsordnung
 
@@ -55,12 +57,16 @@ Anträge können vor der Behandlung durch die antragstellende Person zurückgezo
 
 (3) Angenommene Geschäftsordnungsanträge stehen über den Entscheidungen der Versammlungsleitung.
 
-(4) Geschäftsordnungsanträge sind:
-  1. Antrag auf Vertagung eines Tagesordnungspunktes,
+(4) Geschäftsordnungsanträge bedürfen einer Zweidrittelmehrheit der anwesenden Mitglieder der Vollversammlung.
+
+(5) Geschäftsordnungsanträge sind:
+  1. Antrag auf Vertagung eines Tagesordnungspunktes (einfache Mehrheit),
   2. Antrag auf den Schluss der Redeliste (falls vorhanden),
   3. Antrag auf den Schluss der Beratung und ggf. sofortige Abstimmung,
   4. Antrag auf Ende der Sitzung,
-  5. Antrag auf Feststellung und Protokollierung des Abstimmungsergebnisses durch Zählung.
+  5. Antrag auf Feststellung und Protokollierung des Abstimmungsergebnisses durch Zählung (Entscheidung liegt bei der Versammlungsleitung).
+  
+Die hier genannten Quoren gelten abweichend zu § 7 (4).
 
 ## § 8 Beschlüsse
 
