@@ -55,7 +55,7 @@ Anträge können vor der Behandlung durch die antragstellende Person zurückgezo
 
 (2) Anträge zur Geschäftsordnung werden vor Änderungsanträgen behandelt.
 
-(3) Angenommene Geschäftsordnungsanträge stehen über den Entscheidungen der Versammlungsleitung.
+(3) Angenommene Geschäftsordnungsanträge stehen über den Bestimmungen dieser Geschäftsordnung.
 
 (4) Geschäftsordnungsanträge bedürfen einer Zweidrittelmehrheit der anwesenden Mitglieder der Vollversammlung.
 
@@ -64,7 +64,7 @@ Anträge können vor der Behandlung durch die antragstellende Person zurückgezo
   2. Antrag auf den Schluss der Redeliste (falls vorhanden),
   3. Antrag auf den Schluss der Beratung und ggf. sofortige Abstimmung,
   4. Antrag auf Ende der Sitzung,
-  5. Antrag auf Feststellung und Protokollierung des Abstimmungsergebnisses durch Zählung (Entscheidung liegt bei der Versammlungsleitung).
+  5. Antrag auf Feststellung und Protokollierung des Abstimmungsergebnisses durch Zählung.
   
 Die hier genannten Quoren gelten abweichend zu § 7 (4).
 
