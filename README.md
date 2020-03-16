@@ -5,7 +5,7 @@
     - [Satzung](https://github.com/fsr-de/docs/blob/master/satzung.md) / [*Statutes*](https://github.com/fsr-de/docs/blob/master/statutes.md)
     - [Wahlordnung](https://github.com/fsr-de/docs/blob/master/wahlordnung.md) / [*Electoral Code*](https://github.com/fsr-de/docs/blob/master/electoral_code.md)
 - Fachschaftsrat Digital Engineering / *Digital Engineering Student Representative Group*
-    - [Geschäftsordnung](https://github.com/fsr-de/docs/blob/master/geschaeftsordnung.md) / [*Rules of Procedure*](https://github.com/fsr-de/docs/blob/master/rules_of_procedure.md)
+    - [Geschäftsordnung](https://github.com/fsr-de/docs/blob/master/geschaeftsordnung-fsr.md) / [*Rules of Procedure*](https://github.com/fsr-de/docs/blob/master/rules_of_procedure-fsr.md)
 
 -----
 
