@@ -1,7 +1,7 @@
 
 # Geschäftsordnung des Fachschaftsrates Digital Engineering
 
-Diese Geschäftsordnung wurde am 13.03.2019 vom Fachschaftsrat beschlossen.
+Diese Geschäftsordnung wurde am 16.03.2020 vom Fachschaftsrat beschlossen.
 
 
 
@@ -77,11 +77,13 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 (1) Der Fachschaftsrat ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist, wobei mindestens zwei Mitglieder persönlich anwesend sein müssen.
 
-(2) Beschlüsse werden in einer offenen Abstimmung aller anwesenden Mitglieder gefasst. Ein Beschluss gilt als angenommen, wenn er mehr Ja- als Nein-Stimmen erhält. Bei Stimmengleichheit zwischen Ja- und Nein-Stimmen entscheidet der Sitzungsleitende über Annahme oder Ablehnung.
+(2) Wenn eine persönliche Zusammenkunft aufgrund äußerer Faktoren nicht möglich oder nicht ratsam ist, kann der Vorsitz einstimmig festlegen, eine Sitzung in Form einer Telefonkonferenz ohne festen Ort stattfinden zu lassen. Abweichend von § 5 gelten in diesem Fall alle anwesenden Mitglieder als persönlich anwesend. Eine Sitzung dieser Form ist der Fachschaft mindestens 24 Stunden im Voraus mit einer Begründung für den Ausnahmefall anzukündigen. Auf den besonderen Sitzungsmodus ist mit Wiederholung der Begründung im Protokoll hinzuweisen.
 
-(3) Abweichend von (2) gilt ein Beschluss als nicht gefasst, wenn mehr Enthaltungen als Ja- und Nein-Stimmen zusammengezählt abgegeben wurden.
+(3) Beschlüsse werden in einer offenen Abstimmung aller anwesenden Mitglieder gefasst. Ein Beschluss gilt als angenommen, wenn er mehr Ja- als Nein-Stimmen erhält. Bei Stimmengleichheit zwischen Ja- und Nein-Stimmen entscheidet der Sitzungsleitende über Annahme oder Ablehnung.
 
-(4) Die Beschlüsse des Fachschaftsrates werden in Protokollen festgehalten.
+(4) Abweichend von (3) gilt ein Beschluss als nicht gefasst, wenn mehr Enthaltungen als Ja- und Nein-Stimmen zusammengezählt abgegeben wurden.
+
+(5) Die Beschlüsse des Fachschaftsrates werden in Protokollen festgehalten.
 
 
 ## § 9 Umlaufbeschlüsse
