@@ -12,7 +12,7 @@ Die Geschäftsordnung gilt für den Fachschaftsrat Digital Engineering an der Un
 
 ## § 2 Personenwahlen
 
-(1) Die folgenden Regelungen finden für alle Personenwahlen des Fachschaftsrates Anwendung. Dies schließt die Wahlen auf der konstituierenden Sitzung und alle eventuellen Nachwahlen ein.
+(1) Die folgenden Regelungen finden für alle Personenwahlen des Fachschaftsrates Anwendung. Dies schließt die Wahlen auf der konstituierenden Sitzung, alle eventuellen Nachwahlen und die Benennung von FSR-Assoziierten ein.
 
 (2) Personenwahlen finden für jedes Amt und für Stellvertreter einzeln statt.
 
@@ -38,11 +38,11 @@ Die Geschäftsordnung gilt für den Fachschaftsrat Digital Engineering an der Un
 
 ## § 4 Aufgabenverteilung
 
-(1) Der Vorsitz des Fachschaftsrates ist verantwortlich für die Sitzungsleitung gemäß § 6.
+(1) Der Vorsitz des Fachschaftsrates ist verantwortlich für die Sitzungsleitung gemäß § 7.
 
 (2) Die für die Finanzverwaltung beauftragten Personen verwalten die Finanzen der Fachschaft gemäß den Beschlüssen des Fachschaftsrates. Sie sind zu einzeln Verfügungsberechtigten zu erklären. Sie sollten den Finanz-Workshop des Allgemeinen Studierendenausschusses (AStA) der Universität Potsdam besuchen.
 
-(3) Zu Beginn jeder Sitzung ist von der Sitzungsleitung eine Person mit der Protokollführung zu beauftragen, die alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Die Protokollführung muss persönlich anwesend sein. Weiteres regelt § 8.
+(3) Zu Beginn jeder Sitzung ist von der Sitzungsleitung eine Person mit der Protokollführung zu beauftragen, die alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Die Protokollführung muss persönlich anwesend sein. Weiteres regelt § 10.
 
 (4) Die in § 3 (2) festgelegten Ämter können jeweils durch ein konstruktives Misstrauensvotum des Fachschaftsrates oder nach dem Rücktritt einer Person von diesem Amt neu vergeben werden. Wird das Amt einer Stellvertretung frei, findet eine Neuwahl nur auf Beschluss des Fachschaftsrates statt.
 
@@ -120,9 +120,9 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 ## § 11 Rücktritt, Nachrücker
 
-(1) Jedes Mitglied kann aus triftigen Gründen vom Fachschaftsrat zurücktreten. Der Rücktritt muss zusammen mit einer Begründung den restlichen Mitgliedern in Schriftform vorgelegt werden.
+(1) Jedes Mitglied und jede mit dem Fachschaftsrat assoziierte Person kann aus triftigen Gründen vom Fachschaftsrat zurücktreten. Der Rücktritt muss zusammen mit einer Begründung den restlichen Mitgliedern in Schriftform vorgelegt werden.
 
-(2) Ein Ausscheiden aus der Fachschaft bewirkt zwingend einen sofortigen Rücktritt.
+(2) Ein Ausscheiden eines Mitglieds des Fachschaftsrates aus der Fachschaft bewirkt zwingend einen sofortigen Rücktritt.
 
 (3) Scheiden ein oder mehrere Mitglieder des Fachschaftsrates aus, so sollte eine entsprechende Anzahl neuer Mitglieder innerhalb eines Monats nachrücken. Dazu wird das Wahlergebnis der letzten Wahl herangezogen. Nachrückende müssen erst ihre Wahl annehmen, bevor sie Mitglied des Fachschaftsrates werden.
 
