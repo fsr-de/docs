@@ -35,7 +35,7 @@ Die Geschäftsordnung gilt für die Vollversammlung der Fachschaft Digital Engin
 
 (3) Das Protokoll wird der Fachschaft spätestens 7 Tage nach der Vollversammlung zugänglich gemacht.
 
-## $ 5 Anträge
+## § 5 Anträge
 
 Anträge können vor der Behandlung durch die antragstellende Person zurückgezogen werden.
 
