@@ -39,7 +39,7 @@ Die Organe der Fachschaft sind:
 
 (3) Dem Fachschaftsrat gehören in der Regel acht, mindestens jedoch sechs Mitglieder an. Der Fachschaftsrat sollte aus Bachelor- und Masterstudierenden möglichst vieler unterschiedlicher Semester sowie Promovierenden bestehen.
 
-(4) Der Fachschaftsrat oder einzelne Mitglieder können jederzeit durch Beschluss der Vollversammlung abgewählt werden. Näheres regelt die Geschäftsordnung.
+(4) Der Fachschaftsrat oder einzelne Mitglieder können jederzeit durch Beschluss der Vollversammlung abgewählt werden. Näheres regelt die Geschäftsordnung des Fachschaftsrates.
 
 (5) Der Fachschaftsrat gibt sich eine Geschäftsordnung.
 
@@ -67,7 +67,21 @@ Zu den Aufgaben des Fachschaftsrates gehören insbesondere:
 (5) Näheres regelt die Geschäftsordnung des Fachschaftsrates.
 
 
+## § 4c Fachschaftsrats-Assoziierte
+
+(1) Fachschaftsrats-Assoziierte sind Personen, die den Fachschaftsrat in bestimmten Aufgaben unterstützen. Dies ist nicht möglich bei Ämtern und Aufgaben, die nach der Geschäftsordnung des Fachschaftsrates von dessen Mitgliedern übernommen werden müssen.
+
+(2) Fachschaftsrats-Assoziierte werden durch den Fachschaftsrat benannt.
+
+(3) Die Assoziation endet zusammmen mit der Amtszeit des bennenden Fachschaftsrates.
+
+(4) Fachschaftsrats-Assoziierte können jederzeit durch Beschluss des Fachschaftsrates abgewählt werden.
+
+(5) Der Rücktritt von Fachschaftsrats-Assoziierten wird in der Geschäftsordnung des Fachschaftsrates geregelt.
+
+
 ## § 5 Wahlausschuss
+
 (1) Dem Wahlausschuss obliegt die ordnungsgemäße Vorbereitung und Durchführung der Wahlen der Fachschaft.
 
 (2) Der Wahlausschuss wird durch den Fachschaftsrat aus der Mitte der Fachschaft gebildet.
