@@ -107,7 +107,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 2. Anwesende Mitglieder
 3. Sitzungsleitung
 4. Protokollführung
-5. Beschreibung der Anträge und Beschlüsse mit genauen Abstimmungsergebnissen
+5. Beschreibung der Anträge, Beschlüsse, durchgeführten Wahlen und Benennungen mit genauen Abstimmungsergebnissen
 
 (2) Die Sitzungsprotokolle werden allen Mitgliedern des Fachschaftsrates unverzüglich nach der Sitzung zugänglich gemacht.
 
