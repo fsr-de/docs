@@ -29,9 +29,9 @@ The organizational components of the student body are:
 
 (4) Ordinary General Meetings must be announced at least 28 days in advance by e-mail to the student body, extraordinary General Meetings at least 14 days in advance. Independently of this, General Meetings at which changes to the Statutes are to be voted on must be announced at least 28 days in advance.
 
-(5) Any general assembly announced in accordance with the regulations is quorate.
+(5) Any General Meeting announced in accordance with the regulations is quorate.
 
-(6) General meetings may only be convened during the lecture period.
+(6) General Meetings may only be convened during the lecture period.
 
 (7) The General Meeting creates its own Rules of Procedure.
 
