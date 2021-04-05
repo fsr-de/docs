@@ -1,8 +1,6 @@
-
 # Geschäftsordnung des Fachschaftsrates Digital Engineering
 
 Diese Geschäftsordnung wurde am 13.03.2019 vom Fachschaftsrat beschlossen.
-
 
 
 ## § 1 Geltungsbereich
@@ -12,7 +10,7 @@ Die Geschäftsordnung gilt für den Fachschaftsrat Digital Engineering an der Un
 
 ## § 2 Personenwahlen
 
-(1) Die folgenden Regelungen finden für alle Personenwahlen des Fachschaftsrates Anwendung. Dies schließt die Wahlen auf der konstituierenden Sitzung, alle eventuellen Nachwahlen und die Benennung von FSR-Assoziierten ein.
+(1) Die folgenden Regelungen finden für alle Personenwahlen des Fachschaftsrates Anwendung. Dies schließt die Wahlen auf der konstituierenden Sitzung und alle eventuellen Nachwahlen ein.
 
 (2) Personenwahlen finden für jedes Amt und für Stellvertreter einzeln statt.
 
@@ -107,7 +105,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 2. Anwesende Mitglieder
 3. Sitzungsleitung
 4. Protokollführung
-5. Beschreibung der Anträge, Beschlüsse, durchgeführten Wahlen und Benennungen mit genauen Abstimmungsergebnissen
+5. Beschreibung der Anträge und Beschlüsse mit genauen Abstimmungsergebnissen
 
 (2) Die Sitzungsprotokolle werden allen Mitgliedern des Fachschaftsrates unverzüglich nach der Sitzung zugänglich gemacht.
 
@@ -120,9 +118,9 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 ## § 11 Rücktritt, Nachrücker
 
-(1) Jedes Mitglied und jede mit dem Fachschaftsrat assoziierte Person kann aus triftigen Gründen vom Fachschaftsrat zurücktreten. Der Rücktritt muss zusammen mit einer Begründung den restlichen Mitgliedern in Schriftform vorgelegt werden.
+(1) Jedes Mitglied kann aus triftigen Gründen vom Fachschaftsrat zurücktreten. Der Rücktritt muss zusammen mit einer Begründung den restlichen Mitgliedern in Schriftform vorgelegt werden.
 
-(2) Ein Ausscheiden eines Mitglieds des Fachschaftsrates aus der Fachschaft bewirkt zwingend einen sofortigen Rücktritt.
+(2) Ein Ausscheiden aus der Fachschaft bewirkt zwingend einen sofortigen Rücktritt.
 
 (3) Scheiden ein oder mehrere Mitglieder des Fachschaftsrates aus, so sollte eine entsprechende Anzahl neuer Mitglieder innerhalb eines Monats nachrücken. Dazu wird das Wahlergebnis der letzten Wahl herangezogen. Nachrückende müssen erst ihre Wahl annehmen, bevor sie Mitglied des Fachschaftsrates werden.
 

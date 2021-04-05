@@ -1,4 +1,3 @@
-
 # Geschäftsordnung der Vollversammlung der Fachschaft Digital Engineering
 
 Diese Geschäftsordnung wurde am xx.xx.xxxx von der Vollversammlung beschlossen.
