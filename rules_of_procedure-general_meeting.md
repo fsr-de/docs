@@ -24,7 +24,7 @@ The Rules of Procedure apply to the General Meeting of the Digital Engineering S
 
 (2) The chairing of the meeting can be handed over to other members of the student body for individual items on the agenda.
 
-(3) If necessary, the chair may keep a list of speakers and/or limit the speaking time.
+(3) If necessary, the chair may keep a list of speakers.
 
 (4) The chair decides how votes are to be counted or estimated and whether they are to be recorded afterwards.
 
@@ -64,10 +64,12 @@ The Rules of Procedure apply to the General Meeting of the Digital Engineering S
 
 (5) Motions of order are:
   1. Motion to postpone an item on the agenda (simple majority),
-  2. Motion to close the list of speakers,
-  3. Motion to close the discussion and, if necessary, to take an immediate vote,
-  4. Motion to end the meeting,
-  5. Motion to count and/or record the result of the vote (at the request of one person).
+  2. Motion to set a speaking time limit,
+  3. Motion to close the list of speakers,
+  4. Motion to close the discussion and, if necessary, to take an immediate vote,
+  5. Motion to end the meeting,
+  6. Motion to count and/or record the result of the vote (at the request of one person).
+  7. Motion to vote secretly (at the request of one person).
   
 The quorums mentioned here apply in deviation to (4).
 

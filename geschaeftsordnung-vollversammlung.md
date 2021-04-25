@@ -22,7 +22,7 @@ Die Geschäftsordnung gilt für die Vollversammlung der Fachschaft Digital Engin
 
 (2) Die Versammlungsleitung kann für einzelne Tagesordnungspunkte an andere Mitglieder der Fachschaft übergeben werden.
 
-(3) Die Versammlungsleitung kann bei Bedarf eine Redeliste führen und/oder die Redezeit begrenzen.
+(3) Die Versammlungsleitung kann bei Bedarf eine Redeliste führen.
 
 (4) Die Versammlungsleitung entscheidet, auf welche Weise Stimmen gezählt oder geschätzt und ob sie anschließend protokolliert werden.
 
@@ -62,10 +62,12 @@ Die Geschäftsordnung gilt für die Vollversammlung der Fachschaft Digital Engin
 
 (5) Geschäftsordnungsanträge sind:
   1. Antrag auf Vertagung eines Tagesordnungspunktes (einfache Mehrheit),
-  2. Antrag auf den Schluss der Redeliste,
-  3. Antrag auf den Schluss der Beratung und ggf. sofortige Abstimmung,
-  4. Antrag auf Ende der Sitzung,
-  5. Antrag auf Zählung und/oder Protokollierung des Abstimmungsergebnisses (auf Verlangen einer Person).
+  2. Antrag auf Festsetzung einer Redezeitbegrenzung,
+  3. Antrag auf den Schluss der Redeliste,
+  4. Antrag auf den Schluss der Beratung und ggf. sofortige Abstimmung,
+  5. Antrag auf Ende der Sitzung,
+  6. Antrag auf Zählung und/oder Protokollierung des Abstimmungsergebnisses (auf Verlangen einer Person),
+  7. Antrag auf geheime Abstimmung (auf Verlangen einer Person).
   
 Die hier genannten Quoren gelten abweichend zu § 7 (4).
 
