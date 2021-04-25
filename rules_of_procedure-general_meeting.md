@@ -77,7 +77,7 @@ The quorums mentioned here apply in deviation to (4).
 
 (1) Resolutions are always passed openly by a simple majority of those present and entitled to vote, unless the Statutes of the Student Body or these Rules of Procedure stipulate otherwise. If more abstention votes are cast than yes and no votes together, the motion is considered rejected. A tie vote is considered a rejection.
 
-(2) Voting shall be by show of hands.
+(2) Voting shall be by show of hands. The chair may define another method if this is more appropriate for the way the General Meeting is conducted.
 
 (3) Resolutions may also take the form of opinions or statements.
 

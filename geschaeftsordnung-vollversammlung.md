@@ -75,7 +75,7 @@ Die hier genannten Quoren gelten abweichend zu § 7 (4).
 
 (1) Beschlüsse werden grundsätzlich offen mit einfacher Mehrheit der anwesenden Stimmberechtigten gefasst, sofern die Satzung der Fachschaft oder diese Geschäftsordnung nichts anderes vorschreiben. Werden mehr Enthaltungsstimmen als Ja- und Nein-Stimmen zusammen abgegeben, gilt der Antrag als abgelehnt. Stimmengleichheit gilt als Ablehnung.
 
-(2) Abstimmungen erfolgen durch Handzeichen.
+(2) Abstimmungen erfolgen durch Handzeichen. Die Sitzungsleitung kann ein anderes Verfahren festlegen, wenn dieses für die Durchführungsform der Vollversammlung geeigneter ist.
 
 (3) Beschlüsse können auch in Form von Meinungsbildern oder Stellungnahmen gestaltet werden.
 
