@@ -2,7 +2,7 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These rules of procedure were adopted by the general assembly on xx.xx.xxxx.
+These rules of procedure were adopted by the general assembly on 03.05.2021.
 
 ## § 1 Scope
 
