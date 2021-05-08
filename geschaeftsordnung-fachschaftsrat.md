@@ -1,8 +1,6 @@
-
 # Geschäftsordnung des Fachschaftsrates Digital Engineering
 
 Diese Geschäftsordnung wurde am 16.03.2020 vom Fachschaftsrat beschlossen.
-
 
 
 ## § 1 Geltungsbereich
@@ -38,11 +36,11 @@ Die Geschäftsordnung gilt für den Fachschaftsrat Digital Engineering an der Un
 
 ## § 4 Aufgabenverteilung
 
-(1) Der Vorsitz des Fachschaftsrates ist verantwortlich für die Sitzungsleitung gemäß § 6.
+(1) Der Vorsitz des Fachschaftsrates ist verantwortlich für die Sitzungsleitung gemäß § 7.
 
 (2) Die für die Finanzverwaltung beauftragten Personen verwalten die Finanzen der Fachschaft gemäß den Beschlüssen des Fachschaftsrates. Sie sind zu einzeln Verfügungsberechtigten zu erklären. Sie sollten den Finanz-Workshop des Allgemeinen Studierendenausschusses (AStA) der Universität Potsdam besuchen.
 
-(3) Zu Beginn jeder Sitzung ist von der Sitzungsleitung eine Person mit der Protokollführung zu beauftragen, die alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Die Protokollführung muss persönlich anwesend sein. Weiteres regelt § 8.
+(3) Zu Beginn jeder Sitzung ist von der Sitzungsleitung eine Person mit der Protokollführung zu beauftragen, die alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Die Protokollführung muss persönlich anwesend sein. Weiteres regelt § 10.
 
 (4) Die in § 3 (2) festgelegten Ämter können jeweils durch ein konstruktives Misstrauensvotum des Fachschaftsrates oder nach dem Rücktritt einer Person von diesem Amt neu vergeben werden. Wird das Amt einer Stellvertretung frei, findet eine Neuwahl nur auf Beschluss des Fachschaftsrates statt.
 
