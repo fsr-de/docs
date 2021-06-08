@@ -74,7 +74,7 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 (3) Wahlberechtigten wird die Möglichkeit gegeben, ihre Stimme per Urnen- oder Briefwahl abzugeben.
 
-(5) Bei mehreren Personen gleichen Namens wird für die Stimmabgabe der in der HPI-Domäne geführte Name mit nachgestellter Zahl verwendet. Der Wahlausschuss weist zur Eröffnung der Wahl darauf hin.
+(4) Bei mehreren Personen gleichen Namens wird für die Stimmabgabe der in der HPI-Domäne geführte Name mit nachgestellter Zahl verwendet. Der Wahlausschuss weist zur Eröffnung der Wahl darauf hin.
 
 
 ## § 10 Ergebnisfeststellung
