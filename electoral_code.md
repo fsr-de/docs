@@ -74,7 +74,7 @@ Every member of the student body has the right to vote and to stand as a candida
 
 (2) Voters are not bound to the electoral proposals.
 
-(3) Voters will be given the opportunity to vote by postal ballot or in person.
+(3) Voters are given the opportunity to vote by postal ballot or in person.
 
 (4) If a person has voted both by postal ballot and in person, the vote cast by postal ballot will be forfeited.
 
