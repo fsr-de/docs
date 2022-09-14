@@ -111,7 +111,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 (2) Die Sitzungsprotokolle werden allen Mitgliedern des Fachschaftsrates unverzüglich nach der Sitzung zugänglich gemacht.
 
-(3) Änderungswünsche müssen innerhalb von zwei Werktagen nach dem Tag der Sitzung bei der Protokollführung angezeigt und allen Mitgliedern des Fachschaftsrates mitgeteilt werden. Wird keine gemeinsame Übereinkunft über notwendige Änderungen erreicht, entscheidet der Vorsitz. Nach Ablauf der Frist gilt das Protokoll als angenommen.
+(3) Änderungswünsche, die innerhalb von zwei Werktagen nach dem Tag der Sitzung bei der Protokollführung angezeigt und allen Mitgliedern des Fachschaftsrates mitgeteilt werden, müssen behandelt werden. Wird keine gemeinsame Übereinkunft über notwendige Änderungen erreicht, entscheidet der Vorsitz. Nach sieben Tagen gilt das Protokoll als angenommen.
 
 (4) Angenommene Protokolle werden innerhalb der Vorlesungszeit spätestens nach drei Vorlesungstagen, sonst spätestens nach sieben Tagen durch den Vorsitz veröffentlicht.
 
