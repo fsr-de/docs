@@ -57,7 +57,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 ## § 6 Sitzungen
 
-(1) Während der Vorlesungszeit soll gemäß Satzung der Fachschaft Digital Engineering jede Woche eine Sitzung stattfinden. In der vorlesungsfreien Zeit soll mindestens alle drei Wochen eine Sitzung stattfinden.
+(1) Während der Vorlesungszeit soll gemäß Satzung der Fachschaft Digital Engineering jede Woche eine Sitzung stattfinden. In der vorlesungsfreien Zeit soll mindestens alle drei Wochen eine Sitzung stattfinden. Für den Zeitraum der akademischen Weihnachtsferien ist die Regelung für die vorlesungsfreie Zeit anzuwenden.
 
 (2) Der Vorsitz lädt zu den Sitzungen per E-Mail über einen öffentlichen Verteiler alle interessierten Mitglieder der Fachschaft ein.
 
