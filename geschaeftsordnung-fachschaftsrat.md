@@ -109,13 +109,15 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 4. Protokollführung
 5. Beschreibung der Anträge und Beschlüsse mit genauen Abstimmungsergebnissen
 
-(2) Die Sitzungsprotokolle werden allen Mitgliedern des Fachschaftsrates unverzüglich nach der Sitzung zugänglich gemacht.
+(2) Als Arbeitstage des Fachschaftsrates gelten in der Vorlesungszeit die Vorlesungstage, in der vorlesungsfreien Zeit die Tage Montag bis Freitag, die nicht Feiertag sind.
 
-(3) Änderungswünsche, die innerhalb von zwei Werktagen nach dem Tag der Sitzung bei der Protokollführung angezeigt und allen Mitgliedern des Fachschaftsrates mitgeteilt werden, müssen behandelt werden. Wird keine gemeinsame Übereinkunft über notwendige Änderungen erreicht, entscheidet der Vorsitz. Nach sieben Tagen gilt das Protokoll als angenommen.
+(3) Die Sitzungsprotokolle werden allen Mitgliedern des Fachschaftsrates spätestens am Arbeitstag nach der Sitzung zugänglich gemacht.
 
-(4) Angenommene Protokolle werden innerhalb der Vorlesungszeit spätestens nach drei Vorlesungstagen, sonst spätestens nach sieben Tagen durch den Vorsitz veröffentlicht.
+(4) Änderungswünsche müssen innerhalb von 3 Arbeitstagen nach dem Tag der Sitzung bei der Protokollführung angezeigt und allen Mitgliedern des Fachschaftsrates mitgeteilt werden. Wird keine gemeinsame Übereinkunft über notwendige Änderungen erreicht, entscheidet der Vorsitz. Nach Ablauf der Frist gilt das Protokoll als angenommen.
 
-(5) Sitzungsprotokolle sind mindestens 3 Jahre aufzubewahren.
+(5) Angenommene Protokolle werden innerhalb der Vorlesungszeit spätestens nach zwei Arbeitstagen, sonst spätestens nach fünf Tagen durch den Vorsitz veröffentlicht.
+
+(6) Sitzungsprotokolle sind mindestens 3 Jahre aufzubewahren.
 
 
 ## § 11 Rücktritt, Nachrücker
