@@ -3,9 +3,11 @@
 Diese Geschäftsordnung wurde am 16.03.2020 vom Fachschaftsrat beschlossen.
 
 
-## § 1 Geltungsbereich
+## § 1 Geltungsbereich und Definitionen
 
-Die Geschäftsordnung gilt für den Fachschaftsrat Digital Engineering an der Universität Potsdam.
+(1) Die Geschäftsordnung gilt für den Fachschaftsrat Digital Engineering an der Universität Potsdam.
+
+(2) Als Arbeitstage gelten innerhalb der Vorlesungszeit die Vorlesungstage, in der vorlesungsfreien Zeit die Wochentage Montag bis Freitag, die nicht Feiertag sind.
 
 
 ## § 2 Personenwahlen
@@ -57,7 +59,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 ## § 6 Sitzungen
 
-(1) Während der Vorlesungszeit soll gemäß Satzung der Fachschaft Digital Engineering jede Woche eine Sitzung stattfinden. In der vorlesungsfreien Zeit soll mindestens alle drei Wochen eine Sitzung stattfinden.
+(1) Während der Vorlesungszeit soll gemäß Satzung der Fachschaft Digital Engineering jede Woche eine Sitzung stattfinden. In der vorlesungsfreien Zeit soll mindestens alle drei Wochen eine Sitzung stattfinden. Für den Zeitraum der akademischen Weihnachtsferien ist die Regelung für die vorlesungsfreie Zeit anzuwenden.
 
 (2) Der Vorsitz lädt zu den Sitzungen per E-Mail über einen öffentlichen Verteiler alle interessierten Mitglieder der Fachschaft ein.
 
@@ -109,15 +111,15 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 4. Protokollführung
 5. Beschreibung der Anträge und Beschlüsse mit genauen Abstimmungsergebnissen
 
-(2) Als Arbeitstage des Fachschaftsrates gelten in der Vorlesungszeit die Vorlesungstage, in der vorlesungsfreien Zeit die Tage Montag bis Freitag, die nicht Feiertag sind.
+(2) Die Sitzungsprotokolle werden allen Mitgliedern des Fachschaftsrates spätestens am Arbeitstag nach der Sitzung zugänglich gemacht.
 
-(3) Die Sitzungsprotokolle werden allen Mitgliedern des Fachschaftsrates spätestens am Arbeitstag nach der Sitzung zugänglich gemacht.
+(3) Änderungswünsche müssen innerhalb von drei Arbeitstagen nach dem Tag der Sitzung bei der Protokollführung angezeigt und allen Mitgliedern des Fachschaftsrates mitgeteilt werden. Wird keine gemeinsame Übereinkunft über notwendige Änderungen erreicht, entscheidet der Vorsitz. Nach Ablauf der Frist gilt das Protokoll als angenommen.
 
-(4) Änderungswünsche müssen innerhalb von 3 Arbeitstagen nach dem Tag der Sitzung bei der Protokollführung angezeigt und allen Mitgliedern des Fachschaftsrates mitgeteilt werden. Wird keine gemeinsame Übereinkunft über notwendige Änderungen erreicht, entscheidet der Vorsitz. Nach Ablauf der Frist gilt das Protokoll als angenommen.
+(4) Angenommene Protokolle werden innerhalb der Vorlesungszeit spätestens nach zwei Arbeitstagen, sonst spätestens nach fünf Tagen durch den Vorsitz veröffentlicht.
 
-(5) Angenommene Protokolle werden innerhalb der Vorlesungszeit spätestens nach zwei Arbeitstagen, sonst spätestens nach fünf Tagen durch den Vorsitz veröffentlicht.
+(5) Sitzungsprotokolle sind mindestens drei Jahre aufzubewahren.
 
-(6) Sitzungsprotokolle sind mindestens 3 Jahre aufzubewahren.
+(6) Die Fristen der Absätze 2 und 3 sind in der vorlesungsfreien Zeit verdoppelt.
 
 
 ## § 11 Rücktritt, Nachrücker
