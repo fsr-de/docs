@@ -2,13 +2,15 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These Rules of Procedure were established by the Student Representative Group on Mar. 16, 2020.
+These Rules of Procedure were established by the Student Representative Group on Feb. 1, 2023.
 
 
 
-## § 1 Scope
+## § 1 Scope and Definitions
 
-These Rules of Procedure apply to the Digital Engineering Student Representative Group (Fachschaftsrat Digital Engineering) at the University of Potsdam.
+(1) These Rules of Procedure apply to the Digital Engineering Student Representative Group (Fachschaftsrat Digital Engineering) at the University of Potsdam.
+
+(2) Within the instructional period, working days are considered to be the lecture days, and during the non-instructional period, the weekdays Monday to Friday that are not public holidays.
 
 
 ## § 2 Election of Individuals
@@ -60,7 +62,7 @@ A distinction is made regarding the presence of members of the Student Represent
 
 ## § 6 Meetings
 
-(1) During the instructional period of the semester a meeting shall take place once every week as stated in the Statutes of the Digital Engineering Student Body. In the time between instructional periods a meeting shall take place at least once every three weeks.
+(1) During the instructional period of the semester a meeting shall take place once every week as stated in the Statutes of the Digital Engineering Student Body. In the time between instructional periods and within the christmas break a meeting shall take place at least once every three weeks.
 
 (2) The chairpersons shall invite all interested members of the student body to the meetings via a publicly available email distribution list.
 
@@ -113,13 +115,15 @@ A distinction is made regarding the presence of members of the Student Represent
 4.	Person taking the minutes
 5.	Description of motions and resolutions, with the exact results of voting
 
-(2) The minutes of the meeting will be made available to all members of the Student Representative Group immediately after the meeting.
+(2) The minutes of the meeting will be made available to all members of the Student Representative Group no later than the working day after the meeting.
 
-(3) Requests for modification must be made within two working days after the date of the meeting to the person taking the minutes and must be communicated to all members of the Student Representative Group. If no consensus about necessary changes is reached, the chairpersons decide. After the deadline the minutes shall be deemed accepted.
+(3) Requests for modification must be made within three working days after the date of the meeting to the person taking the minutes and must be communicated to all members of the Student Representative Group. If no consensus about necessary changes is reached, the chairpersons decide. After the deadline the minutes shall be deemed accepted.
 
-(4) During the instructional period of the semester accepted minutes will be published by the chairpersons after three days of classes at the latest. Otherwise, the minutes will be published by the chairpersons after seven days at the latest.
+(4) During the instructional period of the semester accepted minutes will be published by the chairpersons after two working days at the latest.
 
-(5) The minutes of the meetings must be retained for at least 3 years.
+(5) The minutes of the meetings must be retained for at least three years.
+
+(6) The deadlines of paragraphs 2, 3 and 4 are doubled during the non-instructional period.
 
 
 ## § 11 Resignation, Successors
