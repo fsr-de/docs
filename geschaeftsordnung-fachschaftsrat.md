@@ -79,7 +79,7 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 (2) Wenn eine persönliche Zusammenkunft aufgrund äußerer Faktoren nicht möglich oder nicht ratsam ist, kann der Vorsitz einstimmig festlegen, eine Sitzung in Form einer Telefonkonferenz ohne festen Ort stattfinden zu lassen. Abweichend von § 5 gelten in diesem Fall alle anwesenden Mitglieder als persönlich anwesend. Eine Sitzung dieser Form ist der Fachschaft mindestens 24 Stunden im Voraus mit einer Begründung für den Ausnahmefall anzukündigen. Auf den besonderen Sitzungsmodus ist mit Wiederholung der Begründung im Protokoll hinzuweisen.
 
-(3) Beschlüsse werden in einer offenen Abstimmung aller anwesenden Mitglieder gefasst. Ein Beschluss gilt als angenommen, wenn er mehr Ja- als Nein-Stimmen erhält. Bei Stimmengleichheit zwischen Ja- und Nein-Stimmen entscheidet der Sitzungsleitende über Annahme oder Ablehnung.
+(3) Beschlüsse werden in einer offenen Abstimmung aller anwesenden Mitglieder gefasst. Ein Beschluss gilt als angenommen, wenn er mehr Ja- als Nein-Stimmen erhält. Bei Stimmengleichheit zwischen Ja- und Nein-Stimmen gilt ein Beschluss als nicht gefasst.
 
 (4) Abweichend von (3) gilt ein Beschluss als nicht gefasst, wenn mehr Enthaltungen als Ja- und Nein-Stimmen zusammengezählt abgegeben wurden.
 
