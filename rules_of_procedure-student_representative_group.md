@@ -2,7 +2,7 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These Rules of Procedure were established by the Student Representative Group on Feb. 1, 2023.
+These Rules of Procedure were established by the Student Representative Group on Mar. 29, 2023.
 
 
 
@@ -83,7 +83,7 @@ A distinction is made regarding the presence of members of the Student Represent
 
 (2) If a face-to-face meeting is not possible or not advisable due to external factors, the chairpersons may unanimously decide to hold a meeting in the form of a telephone conference without a fixed venue. Contrary to § 5, in this case all members present shall be deemed to be physically present. The student body must be notified of a meeting of this form at least 24 hours in advance, with a justification for the exceptional case. The special meeting mode is to be pointed out in the minutes with a repetition of the justification.
 
-(3) Resolutions are passed in an open vote by all members present. A resolution is considered accepted if it receives more “yes” than “no” votes. In case of a tie between “yes” and “no” votes, the chairing person decides on the acceptance or rejection of the resolution.
+(3) Resolutions are passed in an open vote by all members present. A resolution is considered accepted if it receives more “yes” than “no” votes. In case of a tie between “yes” and “no” votes, a resolution is not considered as adopted.
 
 (4) By way of derogation from (3), a resolution is not considered as adopted if more abstentions have been cast than the total “yes” and “no” votes together.
 
