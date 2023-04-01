@@ -2,7 +2,7 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These Rules of Procedure were established by the Student Representative Group on Feb. 1, 2023.
+These Rules of Procedure were established by the Student Representative Group on Mar. 29, 2023.
 
 
 
