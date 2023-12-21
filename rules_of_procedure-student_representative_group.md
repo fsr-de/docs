@@ -63,7 +63,7 @@ A distinction is made regarding the presence of members of the Student Represent
 
 (1) During the instructional period of the semester a meeting shall take place once every week as stated in the Statutes of the Digital Engineering Student Body. In the time between instructional periods and within the christmas break a meeting shall take place at least once every three weeks.
 
-(2) The chairpersons shall invite all interested members of the student body to the meetings via a publicly available email distribution list.
+(2) The chairpersons shall invite all interested members of the student body to the meetings via a publicly available email distribution list. The invitation should be sent the day before the meeting.
 
 (3) If possible, the meeting should take place on the premises of the
 Hasso Plattner Institute gGmbh.

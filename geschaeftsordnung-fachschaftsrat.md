@@ -79,11 +79,11 @@ Hasso-Plattner-Institut gGmbh stattfinden.
 
 (2) Beschlüsse werden in einer offenen Abstimmung aller anwesenden Mitglieder gefasst. Ein Beschluss gilt als angenommen, wenn er mehr Ja- als Nein-Stimmen erhält. Bei Stimmengleichheit zwischen Ja- und Nein-Stimmen gilt ein Beschluss als nicht gefasst.
 
-(4) Abweichend von (2) gilt ein Beschluss als nicht gefasst, wenn mehr Enthaltungen als Ja- und Nein-Stimmen zusammengezählt abgegeben wurden.
+(3) Abweichend von (2) gilt ein Beschluss als nicht gefasst, wenn mehr Enthaltungen als Ja- und Nein-Stimmen zusammengezählt abgegeben wurden.
 
-(5) Die Beschlüsse des Fachschaftsrates werden in Protokollen festgehalten.
+(4) Die Beschlüsse des Fachschaftsrates werden in Protokollen festgehalten.
 
-(6) Die Anwendung von § 5 (4) SdS gilt als missbräuchlich.
+(5) Die Anwendung von § 5 (4) SdS gilt als missbräuchlich.
 
 ## § 9 Umlaufbeschlüsse
 
