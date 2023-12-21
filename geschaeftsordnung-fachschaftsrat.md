@@ -1,6 +1,6 @@
 # Geschäftsordnung des Fachschaftsrates Digital Engineering
 
-Diese Geschäftsordnung wurde am 29.03.2023 vom Fachschaftsrat beschlossen.
+Diese Geschäftsordnung wurde am 21.12.2023 vom Fachschaftsrat beschlossen.
 
 
 ## § 1 Geltungsbereich und Definitionen
@@ -30,8 +30,8 @@ Diese Geschäftsordnung wurde am 29.03.2023 vom Fachschaftsrat beschlossen.
 (2) Der Fachschaftsrat wählt auf der konstituierenden Sitzung aus seiner Mitte
 
 1. eine vorsitzende Person und ggf. deren Stellvertretung,
-2. eine für die Finanzverwaltung beauftragte Person und ggf. deren Stellvertretung,
-3. eine für die Vernetzung mit den anderen Organen der Studierendenschaft im Sinne der Satzung der Studierendenschaft der Universität Potsdam beauftragte Person.
+2. ein für die Finanzen verantwortliches Mitglied und ggf. dessen Stellvertretung,
+3. ein Mitglied, dem die Vertretung in der Versammlung der Fachschaften nach § 9 Satzung der Studierendenschaft der Universität Potsdam (SdS) vorrangig obliegt.
 
 (3) Die Wahlen auf der konstituierenden Sitzung finden gemäß § 2 statt und werden vom Wahlausschuss geleitet. Nach der Wahl übernimmt der Vorsitz die Sitzungsleitung.
 
@@ -40,9 +40,9 @@ Diese Geschäftsordnung wurde am 29.03.2023 vom Fachschaftsrat beschlossen.
 
 (1) Der Vorsitz des Fachschaftsrates ist verantwortlich für die Sitzungsleitung gemäß § 7.
 
-(2) Die für die Finanzverwaltung beauftragten Personen verwalten die Finanzen der Fachschaft gemäß den Beschlüssen des Fachschaftsrates. Sie sind zu einzeln Verfügungsberechtigten zu erklären. Sie sollten den Finanz-Workshop des Allgemeinen Studierendenausschusses (AStA) der Universität Potsdam besuchen.
+(2) Die für die Finanzen verantwortlichen Mitglieder verwalten die Finanzen der Fachschaft gemäß den Beschlüssen des Fachschaftsrates. Sie sind zu einzeln Verfügungsberechtigten zu erklären. Sie sollten den Finanz-Workshop des Allgemeinen Studierendenausschusses (AStA) der Universität Potsdam besuchen.
 
-(3) Zu Beginn jeder Sitzung ist von der Sitzungsleitung eine Person mit der Protokollführung zu beauftragen, die alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Die Protokollführung muss persönlich anwesend sein. Weiteres regelt § 10.
+(3) Zu Beginn jeder Sitzung ist von der Sitzungsleitung eine Person mit der Protokollführung zu beauftragen, die alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Weiteres regelt § 10.
 
 (4) Die in § 3 (2) festgelegten Ämter können jeweils durch ein konstruktives Misstrauensvotum des Fachschaftsrates oder nach dem Rücktritt einer Person von diesem Amt neu vergeben werden. Wird das Amt einer Stellvertretung frei, findet eine Neuwahl nur auf Beschluss des Fachschaftsrates statt.
 
@@ -51,40 +51,39 @@ Diese Geschäftsordnung wurde am 29.03.2023 vom Fachschaftsrat beschlossen.
 
 ## § 5 Anwesenheit
 
-Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzungen wird unterschieden:
-
-1. Persönliche Anwesenheit: Alle Mitglieder des Fachschaftsrates, die sich während der Sitzung am Ort der Sitzung befinden, gelten als persönlich anwesend.
-2. Anwesenheit: Alle Mitglieder des Fachschaftsrates, die während der Sitzung persönlich anwesend sind oder per Telefon oder anderweitiger Einrichtung zur Kommunikation, insbesondere Internet- oder Videotelefonie, teilnehmen, gelten als anwesend.
+Alle Mitglieder des Fachschaftsrates, die sich während der Sitzung am Ort der Sitzung befinden oder per Telefon oder anderweitiger Einrichtung zur Kommunikation, insbesondere Internet- oder Videotelefonie, teilnehmen, gelten als anwesend.
 
 
 ## § 6 Sitzungen
 
 (1) Während der Vorlesungszeit soll gemäß Satzung der Fachschaft Digital Engineering jede Woche eine Sitzung stattfinden. In der vorlesungsfreien Zeit und in den akademischen Weihnachtsferien soll mindestens alle drei Wochen eine Sitzung stattfinden.
 
-(2) Der Vorsitz lädt zu den Sitzungen per E-Mail über einen öffentlichen Verteiler alle interessierten Mitglieder der Fachschaft ein.
+(2) Der Vorsitz lädt zu den Sitzungen per E-Mail über einen öffentlichen Verteiler alle interessierten Mitglieder der Fachschaft ein. Die Einladung soll am Vortag erfolgen.
+
+(3) Die Sitzung soll nach Möglichkeit in den Räumen der
+Hasso-Plattner-Institut gGmbh stattfinden.
 
 
 ## § 7 Sitzungsleitung
 
-(1) Während jeder Sitzung muss ein persönlich anwesendes Mitglied die Sitzungsleitung innehaben.
+(1) Während jeder Sitzung muss ein anwesendes Mitglied die Sitzungsleitung innehaben.
 
 (2) Die Sitzungsleitung ist verantwortlich für die Festlegung der Protokollführung, Verwaltung der Tagesordnung und einen geordneten Ablauf der Sitzung.
 
-(3) Die Sitzungsleitung wird in der Regel durch den Vorsitz wahrgenommen. Es steht ihm frei, die Sitzungsleitung für die betreffende Sitzung einstimmig auf ein anderes Mitglied zu übertragen. Diese Entscheidung erhält per Mitteilung an den gesamten Fachschaftsrat Gültigkeit.
+(3) Die Sitzungsleitung wird in der Regel durch den Vorsitz wahrgenommen. Es steht ihm frei, die Sitzungsleitung für die betreffende Sitzung einstimmig auf ein anderes Mitglied zu übertragen.
 
 
 ## § 8 Beschlüsse
 
-(1) Der Fachschaftsrat ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist, wobei mindestens zwei Mitglieder persönlich anwesend sein müssen.
+(1) Der Fachschaftsrat ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist.
 
-(2) Wenn eine persönliche Zusammenkunft aufgrund äußerer Faktoren nicht möglich oder nicht ratsam ist, kann der Vorsitz einstimmig festlegen, eine Sitzung in Form einer Telefonkonferenz ohne festen Ort stattfinden zu lassen. Abweichend von § 5 gelten in diesem Fall alle anwesenden Mitglieder als persönlich anwesend. Eine Sitzung dieser Form ist der Fachschaft mindestens 24 Stunden im Voraus mit einer Begründung für den Ausnahmefall anzukündigen. Auf den besonderen Sitzungsmodus ist mit Wiederholung der Begründung im Protokoll hinzuweisen.
+(2) Beschlüsse werden in einer offenen Abstimmung aller anwesenden Mitglieder gefasst. Ein Beschluss gilt als angenommen, wenn er mehr Ja- als Nein-Stimmen erhält. Bei Stimmengleichheit zwischen Ja- und Nein-Stimmen gilt ein Beschluss als nicht gefasst.
 
-(3) Beschlüsse werden in einer offenen Abstimmung aller anwesenden Mitglieder gefasst. Ein Beschluss gilt als angenommen, wenn er mehr Ja- als Nein-Stimmen erhält. Bei Stimmengleichheit zwischen Ja- und Nein-Stimmen gilt ein Beschluss als nicht gefasst.
-
-(4) Abweichend von (3) gilt ein Beschluss als nicht gefasst, wenn mehr Enthaltungen als Ja- und Nein-Stimmen zusammengezählt abgegeben wurden.
+(4) Abweichend von (2) gilt ein Beschluss als nicht gefasst, wenn mehr Enthaltungen als Ja- und Nein-Stimmen zusammengezählt abgegeben wurden.
 
 (5) Die Beschlüsse des Fachschaftsrates werden in Protokollen festgehalten.
 
+(6) Die Anwendung von § 5 (4) SdS gilt als missbräuchlich.
 
 ## § 9 Umlaufbeschlüsse
 
@@ -105,11 +104,12 @@ Bei der Anwesenheit von Mitgliedern des Fachschaftsrates während seiner Sitzung
 
 (1) Das Protokoll jeder Sitzung muss mindestens die folgenden Punkte enthalten:
 
-1. Datum
-2. Anwesende Mitglieder
-3. Sitzungsleitung
-4. Protokollführung
-5. Beschreibung der Anträge und Beschlüsse mit genauen Abstimmungsergebnissen
+1. Tag, Zeit und Ort der Sitzung
+2. Namentliche Anwesenheitsliste
+3. Hinweis zur Beschlussfähigkeit inkl. Anzahl der anwesenden Mitglieder
+4. Sitzungsleitung
+5. Protokollführung
+6. Beschreibung der Anträge und Beschlüsse inkl. Stimmverteilungen
 
 (2) Die Sitzungsprotokolle werden allen Mitgliedern des Fachschaftsrates spätestens am Arbeitstag nach der Sitzung zugänglich gemacht.
 
