@@ -2,7 +2,7 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These Rules of Procedure were established by the Student Representative Group on Dec. 21, 2023.
+These Rules of Procedure were established by the Student Representative Group on Jan. 04, 2024.
 
 
 
@@ -56,7 +56,6 @@ These Rules of Procedure were established by the Student Representative Group on
 
 
 All members of the Student Representative Council who are present at the location of the meeting during the meeting or who participate by telephone or other means of communication, in particular internet or videotelephony, are deemed to be present.
-A distinction is made regarding the presence of members of the Student Representative Group during its meetings:
 
 
 ## § 6 Meetings
@@ -65,9 +64,7 @@ A distinction is made regarding the presence of members of the Student Represent
 
 (2) The chairpersons shall invite all interested members of the student body to the meetings via a publicly available email distribution list. The invitation should be sent the day before the meeting.
 
-(3) If possible, the meeting should take place on the premises of the
-Hasso Plattner Institute gGmbh.
-
+(3) If possible, the meeting should take place in a room on the Griebnitzsee campus that is accessible to the student body. The rooms of the Digital Engineering Faculty are part of the Griebnitzsee campus.
 
 
 ## § 7 Chairing the Meeting
@@ -89,7 +86,7 @@ Hasso Plattner Institute gGmbh.
 
 (4) The resolutions of the Student Representative Group are recorded in the minutes.
 
-(5) The application of § 5 (4) SdS is abusive.
+(5) The provision of § 5 (4) SdS on the quorum at a second meeting on the same subject does not apply.
 
 ## § 9 Circulation Resolutions
 

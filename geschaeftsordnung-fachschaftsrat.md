@@ -1,6 +1,6 @@
 # Geschäftsordnung des Fachschaftsrates Digital Engineering
 
-Diese Geschäftsordnung wurde am 21.12.2023 vom Fachschaftsrat beschlossen.
+Diese Geschäftsordnung wurde am 04.01.2024 vom Fachschaftsrat beschlossen.
 
 
 ## § 1 Geltungsbereich und Definitionen
@@ -30,7 +30,7 @@ Diese Geschäftsordnung wurde am 21.12.2023 vom Fachschaftsrat beschlossen.
 (2) Der Fachschaftsrat wählt auf der konstituierenden Sitzung aus seiner Mitte
 
 1. eine vorsitzende Person und ggf. deren Stellvertretung,
-2. ein für die Finanzen verantwortliches Mitglied und ggf. dessen Stellvertretung,
+2. ein für die Finanzen verantwortliches Mitglied und ggf. dessen Stellvertretung (Finanzbeauftragte),
 3. ein Mitglied, dem die Vertretung in der Versammlung der Fachschaften nach § 9 Satzung der Studierendenschaft der Universität Potsdam (SdS) vorrangig obliegt.
 
 (3) Die Wahlen auf der konstituierenden Sitzung finden gemäß § 2 statt und werden vom Wahlausschuss geleitet. Nach der Wahl übernimmt der Vorsitz die Sitzungsleitung.
@@ -40,7 +40,7 @@ Diese Geschäftsordnung wurde am 21.12.2023 vom Fachschaftsrat beschlossen.
 
 (1) Der Vorsitz des Fachschaftsrates ist verantwortlich für die Sitzungsleitung gemäß § 7.
 
-(2) Die für die Finanzen verantwortlichen Mitglieder verwalten die Finanzen der Fachschaft gemäß den Beschlüssen des Fachschaftsrates. Sie sind zu einzeln Verfügungsberechtigten zu erklären. Sie sollten den Finanz-Workshop des Allgemeinen Studierendenausschusses (AStA) der Universität Potsdam besuchen.
+(2) Die Finanzenbeauftragten verwalten die Finanzen der Fachschaft gemäß den Beschlüssen des Fachschaftsrates. Sie sind zu einzeln Verfügungsberechtigten zu erklären. Sie sollten den Finanz-Workshop des Allgemeinen Studierendenausschusses (AStA) der Universität Potsdam besuchen.
 
 (3) Zu Beginn jeder Sitzung ist von der Sitzungsleitung eine Person mit der Protokollführung zu beauftragen, die alle Beschlüsse der Sitzung und diskutierte Punkte in einem Protokoll festhält. Weiteres regelt § 10.
 
@@ -60,8 +60,7 @@ Alle Mitglieder des Fachschaftsrates, die sich während der Sitzung am Ort der S
 
 (2) Der Vorsitz lädt zu den Sitzungen per E-Mail über einen öffentlichen Verteiler alle interessierten Mitglieder der Fachschaft ein. Die Einladung soll am Vortag erfolgen.
 
-(3) Die Sitzung soll nach Möglichkeit in den Räumen der
-Hasso-Plattner-Institut gGmbh stattfinden.
+(3) Die Sitzung soll nach Möglichkeit in einen Raum am Campus Griebnitzsee stattfinden, der der Fachschaft zugänglich ist. Die Räume der Digital Engineering Fakultät sind Teil des Campus Griebnitzsee.
 
 
 ## § 7 Sitzungsleitung
@@ -83,7 +82,7 @@ Hasso-Plattner-Institut gGmbh stattfinden.
 
 (4) Die Beschlüsse des Fachschaftsrates werden in Protokollen festgehalten.
 
-(5) Die Anwendung von § 5 (4) SdS gilt als missbräuchlich.
+(5) Die Regelung des § 5 (4) SdS zur Beschlussfähigkeit auf einer zweiten Sitzung zum gleichen Gegenstand findet keine Anwendung.
 
 ## § 9 Umlaufbeschlüsse
 
@@ -104,7 +103,7 @@ Hasso-Plattner-Institut gGmbh stattfinden.
 
 (1) Das Protokoll jeder Sitzung muss mindestens die folgenden Punkte enthalten:
 
-1. Tag, Zeit und Ort der Sitzung
+1. Datum, Zeit und Ort der Sitzung
 2. Namentliche Anwesenheitsliste
 3. Hinweis zur Beschlussfähigkeit inkl. Anzahl der anwesenden Mitglieder
 4. Sitzungsleitung
