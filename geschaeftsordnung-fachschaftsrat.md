@@ -1,6 +1,6 @@
 # Geschäftsordnung des Fachschaftsrates Digital Engineering
 
-Diese Geschäftsordnung wurde am 04.01.2024 vom Fachschaftsrat beschlossen.
+Diese Geschäftsordnung wurde am 11.01.2024 vom Fachschaftsrat beschlossen.
 
 
 ## § 1 Geltungsbereich und Definitionen
@@ -60,7 +60,7 @@ Alle Mitglieder des Fachschaftsrates, die sich während der Sitzung am Ort der S
 
 (2) Der Vorsitz lädt zu den Sitzungen per E-Mail über einen öffentlichen Verteiler alle interessierten Mitglieder der Fachschaft ein. Die Einladung soll am Vortag erfolgen.
 
-(3) Die Sitzung soll nach Möglichkeit in einen Raum am Campus Griebnitzsee stattfinden, der der Fachschaft zugänglich ist. Die Räume der Digital Engineering Fakultät sind Teil des Campus Griebnitzsee.
+(3) Die Sitzung soll nach Möglichkeit in einen Raum am Campus Griebnitzsee stattfinden, der der Fachschaft zugänglich ist. Die Räume der Digital Engineering Fakultät sind Teil des Campus Griebnitzsee. Andernfalls findet die Sitzung mittels einem Online-Meeting-Tool so statt, dass die Fachschaft an der Sitzung teilnehmen kann. In diesem Fall ist der Ort der Sitzung i.S.v § 10 (1) "Online".
 
 
 ## § 7 Sitzungsleitung
