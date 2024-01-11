@@ -64,7 +64,7 @@ All members of the Student Representative Council who are present at the locatio
 
 (2) The chairpersons shall invite all interested members of the student body to the meetings via a publicly available email distribution list. The invitation should be sent the day before the meeting.
 
-(3) If possible, the meeting should take place in a room on the Griebnitzsee campus that is accessible to the student body. The rooms of the Digital Engineering Faculty are part of the Griebnitzsee campus. Otherwise, the meeting shall take place via an online meeting tool in such a way that the student body can participate in the meeting. In this case, the location of the meeting in the sense of § 10 (1) is "online".
+(3) If possible, the meeting should take place in a room on the Griebnitzsee campus that is accessible to the student body. Otherwise, the meeting shall take place via an online meeting tool in such a way that the student body can participate in the meeting.
 
 
 ## § 7 Chairing the Meeting
