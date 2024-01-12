@@ -2,7 +2,7 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These Rules of Procedure were established by the Student Representative Group on Mar. 29, 2023.
+These Rules of Procedure were established by the Student Representative Group on Jan. 11, 2024.
 
 
 
@@ -32,63 +32,61 @@ These Rules of Procedure were established by the Student Representative Group on
 
 (2) At the constituent meeting, the Student Representative Group elects from among its members
 
-1.	a chairperson and, when appropriate, a deputy chairperson
-2.	a financial officer and, when appropriate, a deputy financial officer
-3.	a representative for networking with other student body committees, in the sense of the Statutes of the Student Body of the University of Potsdam
+1.	a chairperson and, when appropriate, their deputy
+2.	a member responsible for finances and, when appropriate, their deputy 
+3.	a member who is the main representative in the Assembly of Student Representatives in accordance with § 9 Statutes of the Student Body of the University of Potsdam (SdS)
 
 (3) Elections are carried out at the constituent meeting in accordance with § 2 and are led by the election committee. After the election has concluded, the chairperson takes over the meeting.
 
 
 ## § 4 Allocation of Responsibilities
 
-(1) The chairpersons of the Student Representative Group are responsible for chairing the meetings in accordance with § 6.
+(1) The chairpersons of the Student Representative Group are responsible for chairing the meetings in accordance with § 7.
 
-(2) The financial officers handle the finances of the student body based on the resolutions of the Student Representative Group. They are declared as separately authorized officers. The financial officers are expected to attend the finance workshop of the General Student Committee (AStA) at the University of Potsdam.
+(2) The members responsible for finances handle the finances of the student body based on the resolutions of the Student Representative Group. They are declared as separately authorized officers. The financial officers are expected to attend the finance workshop of the General Student Committee (AStA) at the University of Potsdam.
 
-(3) At the beginning of each meeting, the chairing person shall appoint a minute-taking person, who records the minutes of the meeting including all decisions made and points discussed. The minute-taking person must be physically present at the meeting. Further details are outlined in § 8.
+(3) At the beginning of each meeting, the chairing person shall appoint a minute-taking person, who records the minutes of the meeting including all decisions made and points discussed. Further details are outlined in § 8.
 
 (4) The offices defined in § 3 (2) can each be newly reassigned by the Student Representative Group in case of a constructive vote of no confidence or following the resignation of an office holder, respectively. If the office of a deputy becomes vacant, a new election will only take place by a resolution of the Student Representative Group.
 
-(5) All other areas of competency shall be resolved internally.
+(5) All other areas of competency can be determined internally by resolution.
 
 
 ## § 5 Attendance
 
-A distinction is made regarding the presence of members of the Student Representative Group during its meetings:
 
-1.	Physical presence: All members of the Student Representative Group who are at the place of the meeting for the meeting are considered physically present.
-2.	Present: All members of the Student Representative Group who are physically present during the meeting or who take part via telephone or by other means of communication, in particular via internet or video telephony, are deemed to be present.
+All members of the Student Representative Council who are present at the location of the meeting during the meeting or who participate by telephone or other means of communication, in particular internet or videotelephony, are deemed to be present.
 
 
 ## § 6 Meetings
 
 (1) During the instructional period of the semester a meeting shall take place once every week as stated in the Statutes of the Digital Engineering Student Body. In the time between instructional periods and within the christmas break a meeting shall take place at least once every three weeks.
 
-(2) The chairpersons shall invite all interested members of the student body to the meetings via a publicly available email distribution list.
+(2) The chairpersons shall invite all interested members of the student body to the meetings via a publicly available email distribution list. The invitation should be sent the day before the meeting.
 
+(3) If possible, the meeting should take place in a room on the Griebnitzsee campus that is accessible to the student body. Otherwise, the meeting shall take place via an online meeting tool in such a way that the student body can participate in the meeting.
 
 
 ## § 7 Chairing the Meeting
 
-(1) During every meeting a physically present member is required to chair the meeting.
+(1) During every meeting a present member is required to chair the meeting.
 
 (2) The chairing person is responsible for determining the minute-taking duties, managing the agenda and an orderly course of the meeting.
 
-(3) Generally, the meetings shall be chaired by the chairpersons. They are however free, by unanimous consent, to transfer the task of chairing the meeting in question to another member. This decision is considered valid upon communication to the entire Student Representative Group.
+(3) Generally, the meetings shall be chaired by the chairpersons. They are however free, by unanimous consent, to transfer the task of chairing the meeting in question to another member.
 
 
 ## § 8 Resolutions
 
-(1) The Student Representative Group is authorized to pass a resolution if at least half of its members are present, with at least two members being physically present.
+(1) The Student Representative Group is authorized to pass a resolution if at least half of its members are present.
 
-(2) If a face-to-face meeting is not possible or not advisable due to external factors, the chairpersons may unanimously decide to hold a meeting in the form of a telephone conference without a fixed venue. Contrary to § 5, in this case all members present shall be deemed to be physically present. The student body must be notified of a meeting of this form at least 24 hours in advance, with a justification for the exceptional case. The special meeting mode is to be pointed out in the minutes with a repetition of the justification.
+(2) Resolutions are passed in an open vote by all members present. A resolution is considered accepted if it receives more “yes” than “no” votes. In case of a tie between “yes” and “no” votes, a resolution is not considered as adopted.
 
-(3) Resolutions are passed in an open vote by all members present. A resolution is considered accepted if it receives more “yes” than “no” votes. In case of a tie between “yes” and “no” votes, a resolution is not considered as adopted.
+(3) By way of derogation from (2), a resolution is not considered as adopted if more abstentions have been cast than the total “yes” and “no” votes together.
 
-(4) By way of derogation from (3), a resolution is not considered as adopted if more abstentions have been cast than the total “yes” and “no” votes together.
+(4) The resolutions of the Student Representative Group are recorded in the minutes.
 
-(5) The resolutions of the Student Representative Group are recorded in the minutes.
-
+(5) The provision of § 5 (4) SdS on the quorum at a second meeting on the same subject does not apply.
 
 ## § 9 Circulation Resolutions
 
@@ -109,11 +107,12 @@ A distinction is made regarding the presence of members of the Student Represent
 
 (1) The minutes of each meeting must contain at least the following items:
 
-1.	Date
-2.	Members in attendance
-3.	Person chairing the meeting
-4.	Person taking the minutes
-5.	Description of motions and resolutions, with the exact results of voting
+1.	Date, time and location of the meeting
+2.  Attendance list by name
+3.  Indication of quorum incl. number of members present
+4.	Person chairing the meeting
+5.	Person taking the minutes
+6.	Description of motions and resolutions, incl. the distribution of votes
 
 (2) The minutes of the meeting will be made available to all members of the Student Representative Group no later than the working day after the meeting.
 
