@@ -18,7 +18,7 @@ In den Fachschaftsrat werden gemäß Satzung der Fachschaft Digital Engineering 
 
 (1) Der Fachschaftsrat wird für ein Jahr gewählt und bleibt darüber hinaus bis zum Amtsantritt der neu gewählten Mitglieder kommissarisch im Amt.
 
-(2) Die Wahlen finden gewöhnlich zu Beginn der Vorlesungszeit jedes Sommersemesters statt, spätestens aber einen Monat nach Vorlesungsbeginn. Im Falle einer Neuwahl vor Ablauf einer vollständigen Legislaturperiode ist dieser Zeitpunkt entsprechend anzupassen.
+(2) Die Wahlen finden gewöhnlich zu Beginn der Vorlesungszeit jedes Sommersemesters statt, spätestens aber in der sechsten Woche der Vorlesungszeit. Im Falle einer Neuwahl vor Ablauf einer vollständigen Legislaturperiode ist dieser Zeitpunkt entsprechend anzupassen.
 
 (3) Als Zeitraum der Wahlen ist die Zeit zwischen Einberufung des Wahlausschusses und Ablauf der Anfechtungsfrist zu verstehen.
 

@@ -20,7 +20,7 @@ Based on the Statutes of the Digital Engineering Student Body, eight members are
 
 (1) The Student Representative Group is elected for a one-year term. The members remain in office until the succeeding members take office.
 
-(2) Elections generally take place at the beginning of the start of classes in each summer semester, and, at the latest, one month after beginning of the start of classes. In the event of a new election before a complete legislative period has ended, this date will be adjusted accordingly.
+(2) Elections generally take place at the beginning of the start of classes in each summer semester, and, at the latest, in the sixth week of the lecture period. In the event of a new election before a complete legislative period has ended, this date will be adjusted accordingly.
 
 (3) The election period is understood as the time between the convening of the election committee and the expiration of the appeals period.
 
