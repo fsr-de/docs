@@ -5,7 +5,7 @@ Diese Satzung ist am 03.05.2021 durch Beschluss der Vollversammlung in Kraft get
 
 ## § 1 Geltungsbereich
 
-Alle Studierenden der Universität Potsdam in den Studiengängen IT-Systems Engineering, Data Engineering, Digital Health und Cybersecurity sowie alle an der Digital Engineering Fakultät eingeschriebenen Promotionsstudierenden sind Mitglieder der Fachschaft Digital Engineering.
+Alle Studierenden der Universität Potsdam in den Studienfächern IT-Systems Engineering, Data Engineering, Digital Health, Cybersecurity und Software Systems Engineering sowie alle an der Digital Engineering Fakultät eingeschriebenen Promotionsstudierenden sind Mitglieder der Fachschaft Digital Engineering.
 
 
 ## § 2 Organe
