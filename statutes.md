@@ -7,7 +7,7 @@ These Statutes came into effect by resolution of all members at a General Meetin
 
 ## § 1 Scope
 
-Members of the Digital Engineering student body include all students of the University of Potsdam in the degree programs “IT Systems Engineering”, “Data Engineering”, “Digital Health”, and “Cybersecurity”, as well as PhD students enrolled at the Digital Engineering Faculty.
+Members of the Digital Engineering student body include all students of the University of Potsdam in the subjects IT-Systems Engineering, Data Engineering, Digital Health, Cybersecurity, and Software Systems Engineering, as well as PhD students enrolled at the Digital Engineering Faculty.
 
 
 ## § 2 Organization
