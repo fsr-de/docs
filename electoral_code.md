@@ -54,14 +54,14 @@ Every member of the student body has the right to vote and to stand as a candida
 
 ## § 7 Notice of Election
 
-(1) The election committee shall announce the election to the Student Representative Group no later than three weeks before the election is to take place. The notice of election is to be made to the student body by email.
+(1) The election committee shall announce the election to the Student Representative Group no later than four weeks before the election is to take place. The notice of election is to be made to the student body by email.
 
 (2) The notice of election provides information about the time, place and other modalities of the election. It should contain the information listed in § 12 of the Framework Regulations for Elections of the Student Body of the University of Potsdam, dated February 6, 2018.
 
 
 ## § 8 Electoral Proposals
 
-(1) A candidature for the Student Representative Group must be made in written form. Notification of a candidature must be submitted to the election committee no later than two weeks before the election. It must include the first and last name of the candidate as well as the candidate’s email address, degree program and, if applicable, the number of semesters the candidate has studied up to that time.
+(1) A candidature for the Student Representative Group must be made in written form. Notification of a candidature must be submitted to the election committee no later than three weeks before the election. It must include the first and last name of the candidate as well as the candidate’s email address, degree program and, if applicable, the number of semesters the candidate has studied up to that time.
 
 (2) The election committee may decide on an extension of the deadline for nominations, but it must be one week before the election takes place at the latest.
 

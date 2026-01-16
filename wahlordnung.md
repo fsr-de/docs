@@ -52,14 +52,14 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 ## § 7 Wahlausschreibung
 
-(1) Der Wahlausschuss schreibt die Wahlen zum Fachschaftsrat spätestens drei Wochen vor der Wahl aus. Die Wahlbekanntmachung ist durch E-Mail an die Fachschaft zu veröffentlichen.
+(1) Der Wahlausschuss schreibt die Wahlen zum Fachschaftsrat spätestens vier Wochen vor der Wahl aus. Die Wahlbekanntmachung ist durch E-Mail an die Fachschaft zu veröffentlichen.
 
 (2) Die Wahlbekanntmachung informiert über Zeitpunkt, Ort und weitere Modalitäten der Wahlen. Sie sollte die in § 12 der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam vom 6. Februar 2018 aufgeführten Hinweise beinhalten.
 
 
 ## § 8 Wahlvorschläge
 
-(1) Die Kandidatur für den Fachschaftsrat erfolgt in Textform. Die Mitteilung über die Kandidatur ist spätestens zwei Wochen vor der Wahl dem Wahlausschuss zuzuleiten. Sie muss Namen und Vornamen, E-Mail-Adresse, Studiengang und falls zutreffend Semesterzahl der kandidierenden Person enthalten.
+(1) Die Kandidatur für den Fachschaftsrat erfolgt in Textform. Die Mitteilung über die Kandidatur ist spätestens drei Wochen vor der Wahl dem Wahlausschuss zuzuleiten. Sie muss Namen und Vornamen, E-Mail-Adresse, Studiengang und falls zutreffend Semesterzahl der kandidierenden Person enthalten.
 
 (2) Der Wahlausschuss kann eine Verlängerung der Zuleitungsfrist der Wahlvorschläge beschließen, spätestens endet diese aber eine Woche vor der Wahl.
 
