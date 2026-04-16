@@ -1,11 +1,11 @@
 # Satzung der Fachschaft Digital Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Satzung ist am 03.05.2021 durch Beschluss der Vollversammlung in Kraft getreten.
+Diese Satzung ist am XX.XX.2026 durch Beschluss der Vollversammlung in Kraft getreten.
 
 
 ## § 1 Geltungsbereich
 
-Alle Studierenden der Universität Potsdam in den Studienfächern IT-Systems Engineering, Data Engineering, Digital Health, Cybersecurity, Software Systems Engineering und Computer Science sowie alle an der Digital Engineering Fakultät eingeschriebenen Promotionsstudierenden sind Mitglieder der Fachschaft Digital Engineering.
+Alle Studierenden der Universität Potsdam in den Studiengängen B.Sc. IT-Systems Engineering, M.Sc. Computer Science, M.Sc. Digital Health, M.Sc. IT-Systems Engineering, M.Sc. Data Engineering, M.Sc. Cybersecurity und M.Sc. Software Systems Engineering sowie alle an der Digital Engineering Fakultät eingeschriebenen Promotionsstudierenden sind Mitglieder der Fachschaft Digital Engineering.
 
 
 ## § 2 Organe
@@ -21,7 +21,7 @@ Die Organe der Fachschaft sind:
 
 (1) Die Vollversammlung der Fachschaft ist das oberste beschlussfassende Organ der Fachschaft. In der Vollversammlung haben alle Mitglieder der Fachschaft Rede-, Antrags- und Stimmrecht.
 
-(2) In jedem Studienjahr soll eine ordentliche Vollversammlung stattfinden. Ordentliche Vollversammlungen werden durch den Fachschaftsrat einberufen.
+(2) In jedem Semester soll eine ordentliche Vollversammlung stattfinden. Ordentliche Vollversammlungen werden durch den Fachschaftsrat einberufen.
 
 (3) Außerordentliche Vollversammlungen können durch den Fachschaftsrat oder durch mindestens 15 Mitglieder der Fachschaft einberufen werden. Verantwortlich für die Durchführung sind die einberufenden Personen.
 
@@ -38,9 +38,9 @@ Die Organe der Fachschaft sind:
 
 (1) Der Fachschaftsrat ist beschlussfähiges und ausführendes Organ der Fachschaft. Er ist an die Satzung und an die Beschlüsse der Vollversammlung gebunden.
 
-(2) Der Fachschaftsrat wird im Normalfall einmal im Jahr am Anfang des Sommersemesters entsprechend der Wahlordnung der Fachschaft Digital Engineering gewählt.
+(2) Der Fachschaftsrat wird im Normalfall jedes Semester abwechselnd zur Hälfte entsprechend der Wahlordnung der Fachschaft Digital Engineering gewählt.
 
-(3) Dem Fachschaftsrat gehören in der Regel acht, mindestens jedoch sechs Mitglieder an. Der Fachschaftsrat sollte aus Bachelor- und Masterstudierenden möglichst vieler unterschiedlicher Semester sowie Promovierenden bestehen.
+(3) Dem Fachschaftsrat gehören in der Regel sechs bis acht, mindestens jedoch vier Mitglieder an. Der Fachschaftsrat sollte aus Bachelor- und Masterstudierenden möglichst vieler unterschiedlicher Semester sowie Promovierenden bestehen.
 
 (4) Der Fachschaftsrat oder einzelne Mitglieder können jederzeit durch Beschluss der Vollversammlung abgewählt werden. Näheres regelt die Geschäftsordnung des Fachschaftsrates.
 

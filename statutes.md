@@ -2,12 +2,12 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These Statutes came into effect by resolution at a General Meeting on 03.05.2021.
+These Statutes came into effect by resolution at a General Meeting on XXXX XX, 2026.
 
 
 ## § 1 Scope
 
-Members of the Digital Engineering Student Body include all students of the University of Potsdam in the subjects IT-Systems Engineering, Data Engineering, Digital Health, Cybersecurity, Software Systems Engineering, and Computer Science, as well as PhD students enrolled at the Digital Engineering Faculty.
+All students at the University of Potsdam enrolled in the B.Sc. IT-Systems Engineering, M.Sc. Computer Science, M.Sc. Digital Health, M.Sc. IT-Systems Engineering, M.Sc. Data Engineering, M.Sc. Cybersecurity, and M.Sc. Software Systems Engineering programs, as well as all PhD students enrolled at the Digital Engineering Faculty, are members of the Digital Engineering Student Body.
 
 
 ## § 2 Organization
@@ -23,7 +23,7 @@ The organizational components of the Student Body are:
 
 (1) The General Meeting of the Student Body is the supreme decision-making entity of the Student Body. At the General Meeting all members of the Student Body have the right to speak, submit motions and vote.
 
-(2) An ordinary General Meeting shall take place each academic year. The Student Council is responsible for convening the General Meeting.
+(2) An ordinary General Meeting shall take place each semester. The Student Council is responsible for convening the General Meeting.
 
 (3) Extraordinary General Meetings may be convened by the Student Council or by at least 15 members of the Student Body. Those who have called the meeting are responsible for its implementation.
 
@@ -40,9 +40,9 @@ The organizational components of the Student Body are:
 
 (1) The Student Council is a quorate and executive entity of the Student Body. It is bound by the Statutes and the decisions of the General Meeting.
 
-(2) As a rule, the Student Council will be elected once a year at the beginning of the summer semester in accordance with the Electoral Code of the Digital Engineering Student Body.
+(2) Half of the Student Council's members are normally elected every semester, in accordance with the Electoral Code of the Digital Engineering Student Body.
 
-(3) The Student Council usually consists of eight, but at least six, members. Ideally, the Student Council should contain bachelor’s and master’s students in different semesters as well as PhD students.
+(3) The Student Council usually has six to eight, but at least four members. Ideally, the Student Council should include Bachelor's and Master's students from as many different semesters as possible, as well as PhD students.
 
 (4) The Student Council or individual members can be removed from office at any time by a resolution of the General Meeting. See the Rules of Procedure of the Student Council for further details.
 
