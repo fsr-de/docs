@@ -2,7 +2,7 @@
 
 *This translation is for information purposes only and is not legally binding.*
 
-These Statutes came into effect by resolution at a General Meeting on XXXX XX, 2026.
+These Statutes came into effect by resolution at a General Meeting on May 20, 2026.
 
 
 ## § 1 Scope

@@ -1,6 +1,6 @@
 # Satzung der Fachschaft Digital Engineering am Hasso-Plattner-Institut an der Universität Potsdam
 
-Diese Satzung ist am XX.XX.2026 durch Beschluss der Vollversammlung in Kraft getreten.
+Diese Satzung ist am 20.05.2026 durch Beschluss der Vollversammlung in Kraft getreten.
 
 
 ## § 1 Geltungsbereich
